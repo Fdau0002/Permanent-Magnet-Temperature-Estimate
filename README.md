@@ -1,0 +1,1 @@
+# Permanent-Magnet-Temperature-Estimate
