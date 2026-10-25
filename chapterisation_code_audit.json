@@ -1,0 +1,1561 @@
+[
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-004",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 4,
+    "original_code_sha256": "969524c6af468530573eae399eba47038553a63793cb22fcaeff7a2988dd5a86",
+    "canonical_ast_sha256": "2bb6f225c7cb49f77ec60771237a4e45d9701db120eb37f5b695c07fbebf8e46",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-004-p01",
+      "dev-fresh-reconstruction-004-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-006",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 6,
+    "original_code_sha256": "0b950e63a02ff9ab6a366736689b7666fbe5e5f9e36abdd8c718723b525490c8",
+    "canonical_ast_sha256": "eff8bdc2fdaed0c1c07d66aaabba0d37320667a19a5370e00383d4481995ef60",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-006-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-007",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 7,
+    "original_code_sha256": "49e5987709fe426c8582028dce084dff08e282eea7bdf105f189e9e667730203",
+    "canonical_ast_sha256": "96483ad05e9f333ff8932b29d6d92d2eceeaabac93f447b522b22040892af44c",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-007-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-010",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 10,
+    "original_code_sha256": "1b6db4849ffd8b3ef9847a356b39df8da8005fbf2c166ebc82d90fbf4d1a0109",
+    "canonical_ast_sha256": "0b25e04b900a427b4591b1d0e5b3285b9090090d64f4105a9b4eb072d36a82a1",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-010-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-012",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 12,
+    "original_code_sha256": "a9a85fb21492cc9d45bf311abd677ecd2c1f64ef74177f8234369ccfc7755f0e",
+    "canonical_ast_sha256": "3c080c20ab18483d48bafac8355dd0f2526a245e9609ed7147adb00e1ac915c1",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-012-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-015",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 15,
+    "original_code_sha256": "6f9c2d5bdc7a191e2df5248be2d608a4e84fb62442886efe5e2bdfb8e678183d",
+    "canonical_ast_sha256": "52344ce3e681dfa26f2f7ee945948f12df90cb71ac53b19e2bd02cf310bf9583",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-015-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-017",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 17,
+    "original_code_sha256": "be80553ff3f99ceb8807b06143e45a626818e3a8289f7f2c9e54fbef4be4baeb",
+    "canonical_ast_sha256": "156afe745213d4f241039c4fc7d3a5f645cf810cad36ddd28a99faf1689659b8",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-017-p01",
+      "dev-fresh-reconstruction-017-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-018",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 18,
+    "original_code_sha256": "935a46598e4efa767eca2a121d29d1b30bcda2c1d130fe236a207814b1925367",
+    "canonical_ast_sha256": "f8dc2dee93c68a8cbc020719b5a13c0a95a4bd2f6277b831c1985a6b5fdaef8b",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-018-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-023",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 23,
+    "original_code_sha256": "889632deb0f97c0c288a4342a6a0802549fd7c5965cdab24590db9f4f2179721",
+    "canonical_ast_sha256": "50d7e1cef70c340b35eca21f99e9cdd748929ddab9a95922f11e23cb72845238",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-023-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-025",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 25,
+    "original_code_sha256": "ba02a5a40fc5f30a33faba56448490251930b2b4473e483305890cc238c824b4",
+    "canonical_ast_sha256": "e6e7e09326eff1a4400224dcb864875e4e2374116638c87df7238793d6d176c6",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-025-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-026",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 26,
+    "original_code_sha256": "5a42275be033a85d2b2405885554f2dda937c07512c5fefde187e10640462665",
+    "canonical_ast_sha256": "6b338aff22b6b62dc5ddc1ea7c4692ed553c197a9de3853cef13893343c21477",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-026-p01",
+      "dev-fresh-reconstruction-026-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-028",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 28,
+    "original_code_sha256": "37c8957d89395c3d9d34cc67778c4130988df0d1ee12b79d21baad35ee84fdb1",
+    "canonical_ast_sha256": "1731ad890b6b9fa59a4354150a299d61a1bdfa62b5e8b9ffb006cfeef357c1bc",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-028-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-030",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 30,
+    "original_code_sha256": "c9a6181ebd91f1b722481c2fce3cbed2667ae0c6bc7f8610358de4378423d435",
+    "canonical_ast_sha256": "dcd3a1e0d4bd7d63dd3ad328d690429997e5c2327457d76e49c32d3d525e94d2",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-030-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-033",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 33,
+    "original_code_sha256": "e68a544355c2e469a1c39faa45dbd9cf7613992896bcfbf7b12ffdf9a536bea8",
+    "canonical_ast_sha256": "491cb6045188f57f7657fcac045b79300746ffb754030647e3a74638ed772e8c",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-033-p01",
+      "dev-fresh-reconstruction-033-p02",
+      "dev-fresh-reconstruction-033-p03",
+      "dev-fresh-reconstruction-033-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-036",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 36,
+    "original_code_sha256": "39900bee30d9eb8e96f9a08e862249a2c78504a4fd547be2ad52fa48f0fdbf8b",
+    "canonical_ast_sha256": "83a00694b5d2f00fc1ec50177d47a98f95e577ff05412f4439e85cff8fa8f930",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-036-p01",
+      "dev-fresh-reconstruction-036-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-038",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 38,
+    "original_code_sha256": "411cad2a21ec3c24c9db5a7db5dc31b7491a1b53511e6b14b810c7bada2ffc23",
+    "canonical_ast_sha256": "0614029477c2a926ab79abd5d0374ccdae583a97a050fc01dfebb696af302802",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-038-p01",
+      "dev-fresh-reconstruction-038-p02",
+      "dev-fresh-reconstruction-038-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-040",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 40,
+    "original_code_sha256": "4c39f10244da8219ae41bc0b932183e391311e9bf6e56954f163e97016e402b5",
+    "canonical_ast_sha256": "c21fc66b9e5b1166e60f121e44e9e485d441b1d184e32acfdcef8a4fb0dc013b",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-040-p01",
+      "dev-fresh-reconstruction-040-p02",
+      "dev-fresh-reconstruction-040-p03",
+      "dev-fresh-reconstruction-040-p04",
+      "dev-fresh-reconstruction-040-p05",
+      "dev-fresh-reconstruction-040-p06"
+    ],
+    "parts": 6,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-042",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 42,
+    "original_code_sha256": "3964709ade4b754522a8e8c55e0c0d769156c04cb1b6653c8de968dd171f1a5f",
+    "canonical_ast_sha256": "92759e80993c4ae966e33ab4731408d726012f706659d72101465409f8a8715b",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-042-p01",
+      "dev-fresh-reconstruction-042-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-044",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 44,
+    "original_code_sha256": "98d43e717582da84902eec05875d17cf3a69847506f1287806b555594f82ca08",
+    "canonical_ast_sha256": "1d5ca1a3b31385c534f7d878fbc7d8da9594aea1e4b51deefabe81613b646e89",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-044-p01",
+      "dev-fresh-reconstruction-044-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-046",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 46,
+    "original_code_sha256": "9f3958defa6dd666a1a577c1783eec4268889e7e55b5527f9bdb7f520976fb45",
+    "canonical_ast_sha256": "82dfb145990dc8f60fd07b19b168dbef8ff8a08c46baab64c0077b8171c39710",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-046-p01",
+      "dev-fresh-reconstruction-046-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-050",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 50,
+    "original_code_sha256": "ece04ea860c57c682e6d212de9a47140ff5ffa1fb43d2d3c780b7162182b0d01",
+    "canonical_ast_sha256": "8a31ea2d41e6948874a44d006d54bf80dc6322081d0b18619d5eea03410f6b26",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-050-p01",
+      "dev-fresh-reconstruction-050-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-052",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 52,
+    "original_code_sha256": "9495eccf190cea97a0c3b89978d2d9161363b6c92f67bf3ebc0c6968c0970feb",
+    "canonical_ast_sha256": "9bac7844fdb8de6be0d3e9cc2719901eca19e3a3d187c74bb02ee2d6d0d625e6",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-052-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-053",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 53,
+    "original_code_sha256": "9f3e0788b02acd0b0011ec3efd4949ce1418efa013b06be0fcf63e0747c9407f",
+    "canonical_ast_sha256": "5b4739ff672979fe4e5e844f52e7ef898da8c178b992b43a5e603a6036e94122",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-053-p01",
+      "dev-fresh-reconstruction-053-p02",
+      "dev-fresh-reconstruction-053-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-054",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 54,
+    "original_code_sha256": "83ad83bd2585b8b069d902c3c8f9a88f396059f4ffe84aa6240226d3fa71f7fb",
+    "canonical_ast_sha256": "b241602b913560c3222072363b090d27177616e26636f20b7efd4dff5cfcf93f",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-054-p01",
+      "dev-fresh-reconstruction-054-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-056",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 56,
+    "original_code_sha256": "fc70b235b3b7e2d8feea26c81ccb34b301c85e44bc7a8cbd40205f9052fccfd6",
+    "canonical_ast_sha256": "6036a0fd2ca0e08f9a17720b05898212e55de8a2558b00218aae93242d7c432a",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-056-p01",
+      "dev-fresh-reconstruction-056-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-057",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 57,
+    "original_code_sha256": "c34dbc3a5dcad111296a3d79a498c1c203b1134552d7cf2f193cecc36e42b239",
+    "canonical_ast_sha256": "fb9bd5b6f02b9c580ce2a247fe4bd72b1b1bb0ec4e423b3b69811c7e9d2e74a7",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-057-p01",
+      "dev-fresh-reconstruction-057-p02",
+      "dev-fresh-reconstruction-057-p03",
+      "dev-fresh-reconstruction-057-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-058",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 58,
+    "original_code_sha256": "e47e59678494a45eaa6bfc1d984e604284745d8076e87c1eb7b7859177796782",
+    "canonical_ast_sha256": "8e274aa4befc8132aa1944367f0e6b8c7ce087104e1e08b86638d91634eb76dd",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-058-p01",
+      "dev-fresh-reconstruction-058-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-065",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 65,
+    "original_code_sha256": "411558af3bcdb357f6f7a44cb5379ce53ea6e0a55b2871fc163535a5dcc6327e",
+    "canonical_ast_sha256": "39d200654b7ccf16ad0b4f0e28e6cd86932d6ea36ae6dcf8a3ed3fc2a3535a18",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-065-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-066",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 66,
+    "original_code_sha256": "a2f50e7da99f54cb970a6decf3b0fac31df9d0d3c746ed8f38a25ec6c11cf2d6",
+    "canonical_ast_sha256": "228dacd081012b2fa63ff24f3a9fa433c51709722746d32a92f04ae270b6d253",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-066-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-067",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 67,
+    "original_code_sha256": "9d71e64fedc95dbbfd48f1ebb3503dc0a111b3d887d57b8c4b1b1884010ce4a7",
+    "canonical_ast_sha256": "384f857977ed0ca9c1bdc821f1628dd89a45053bd9a15a4ec75cbcb05820acfc",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-067-p01",
+      "dev-fresh-reconstruction-067-p02",
+      "dev-fresh-reconstruction-067-p03",
+      "dev-fresh-reconstruction-067-p04",
+      "dev-fresh-reconstruction-067-p05",
+      "dev-fresh-reconstruction-067-p06"
+    ],
+    "parts": 6,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-068",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 68,
+    "original_code_sha256": "840dbbe851e1b286f8f0d0f7db6996c7ef64cc1c0de12903d45de2f3d16ab06e",
+    "canonical_ast_sha256": "3e0ec3c815f3dec31c1af93d1af21f06cc78e6eae6fe3ed8d73519bd4a4a9b3b",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-068-p01",
+      "dev-fresh-reconstruction-068-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-070",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 70,
+    "original_code_sha256": "27c189e503d0adbd8a86a58724730ae073fc4d7c66495b31df005a4cf9b55c30",
+    "canonical_ast_sha256": "e74577b16f8818b83284bd39c7a1e1687f36bc080de66e55ef88c7ebffd6b0d9",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-070-p01",
+      "dev-fresh-reconstruction-070-p02",
+      "dev-fresh-reconstruction-070-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-073",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 73,
+    "original_code_sha256": "b99696f1bbc72daea7f76547a92ab07ac9263245bf953cdb0ad5c1be71b1dfc7",
+    "canonical_ast_sha256": "8c4db1bbfb84130203963ee2a20d21d1fd095c07a0b19122c410d8dfa6f9612e",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-073-p01",
+      "dev-fresh-reconstruction-073-p02",
+      "dev-fresh-reconstruction-073-p03",
+      "dev-fresh-reconstruction-073-p04",
+      "dev-fresh-reconstruction-073-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-074",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 74,
+    "original_code_sha256": "55bc50973ed2360bf7c0d3001ff22daa4780238b1000cb3dad929ca82b444064",
+    "canonical_ast_sha256": "999cc19c85952c6e38ff3eac795617cb556da3321a7f40a90606d9dcc4e05be6",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-074-p01",
+      "dev-fresh-reconstruction-074-p02",
+      "dev-fresh-reconstruction-074-p03",
+      "dev-fresh-reconstruction-074-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-075",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 75,
+    "original_code_sha256": "fed8c363b568b75343888207383cf065944f3d3dca3ca7e0e6626a33313fb83c",
+    "canonical_ast_sha256": "d00cc331a906f881000de22dddb4d1f8fbe185959e33a3df76954dbf3f0aa261",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-075-p01",
+      "dev-fresh-reconstruction-075-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-076",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 76,
+    "original_code_sha256": "325c9279edde404da87d41ab274cb4bc80a717ef15fc8be4608ebb8dc5746588",
+    "canonical_ast_sha256": "d5403fd3c9a7bf63fae0cbcf14ede88fea7d2f11e4a1b95bd23d0e1ff11ddad9",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-076-p01",
+      "dev-fresh-reconstruction-076-p02",
+      "dev-fresh-reconstruction-076-p03",
+      "dev-fresh-reconstruction-076-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-078",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 78,
+    "original_code_sha256": "59852968b1e7f676c04185fa24e55427fee58fe95d74bb247f40d3f6937feb71",
+    "canonical_ast_sha256": "c728aedf9f764d6390af6df06847aa0ceb4ad07e333c2b41ae4b507ef7851506",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-078-p01",
+      "dev-fresh-reconstruction-078-p02",
+      "dev-fresh-reconstruction-078-p03",
+      "dev-fresh-reconstruction-078-p04",
+      "dev-fresh-reconstruction-078-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-080",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 80,
+    "original_code_sha256": "f7799cf933e4ae2bdf315b0959066da4afc6bfbca4ecd1fa71a56d1008848f0b",
+    "canonical_ast_sha256": "524334fac33df651115371b7a09fc941c9f7b7a2548af9380708ee477f982ed9",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-080-p01",
+      "dev-fresh-reconstruction-080-p02",
+      "dev-fresh-reconstruction-080-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-083",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 83,
+    "original_code_sha256": "4faaad8845e2c701a1dbe0a71284c8569cc3a5d0750ad88a5ba4312acd02cd93",
+    "canonical_ast_sha256": "686f715c99cb9a8f19ed97fce8c81af6417a5fdea1584fd0732321534683e0a5",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-083-p01",
+      "dev-fresh-reconstruction-083-p02",
+      "dev-fresh-reconstruction-083-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-084",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 84,
+    "original_code_sha256": "2cf595f804b12f124300d2fd3e297c3254887eeffbb3f99730d2d5f5dd98b2d6",
+    "canonical_ast_sha256": "d13ee4bbda3c9a91d0431147b428d59ecf92e3d03fd8ea663448b19815f84b40",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-084-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-086",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 86,
+    "original_code_sha256": "f72c4ef90c7a72dd361b9dc90d7829e538297f76e759942feb104f6bbbbffeea",
+    "canonical_ast_sha256": "e1f07eafa8b39af4ad3cb3ebec7482f5b1857ec3c5b75e263cc28349f2071df4",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-086-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-088",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 88,
+    "original_code_sha256": "08de15aadbc64aabcef3ae0cff126271994bac506aa7faa118a158532279ee4f",
+    "canonical_ast_sha256": "ad65911f0ff57d4e7526c3fc89f0fa034ced0aa76a1657ad6e17d594592419e5",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-088-p01",
+      "dev-fresh-reconstruction-088-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-089",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 89,
+    "original_code_sha256": "24185dd384d54e6a8206eb2109b3a5d236cd838e8f388ce4ce334c46f5184745",
+    "canonical_ast_sha256": "1ba15dad1bc5c820e47dec9e470af52475b96df1a3b25a4d1e1f2803fa97ef39",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-089-p01",
+      "dev-fresh-reconstruction-089-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-091",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 91,
+    "original_code_sha256": "33ff1184ee755255ae62f2cd113563728db6777b3879abcd41c0120ca083532f",
+    "canonical_ast_sha256": "7e1fa3ab9226b884e95d9faf391435024fd888bb31f71cb1d4b01ec5af7c86dc",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-091-p01",
+      "dev-fresh-reconstruction-091-p02",
+      "dev-fresh-reconstruction-091-p03",
+      "dev-fresh-reconstruction-091-p04",
+      "dev-fresh-reconstruction-091-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-093",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 93,
+    "original_code_sha256": "4fb087e67001aa174736af83d47d252c3934dacb7add2d2a23691b19e663cef7",
+    "canonical_ast_sha256": "e8777ef45c46cc7f6919670b6ad4cdb8ab55c0970afb01bb89fb70d231082c6a",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-093-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-095",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 95,
+    "original_code_sha256": "5cc13678b71da6904ebfd08cb4af732467ce30ed4cd604bd583b7faa0936aeee",
+    "canonical_ast_sha256": "e1d3e3bf4e7c626e22c85b4f00d9f293ddc2b05ad49cb77d5f2542d6f2015e09",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-095-p01",
+      "dev-fresh-reconstruction-095-p02",
+      "dev-fresh-reconstruction-095-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-098",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 98,
+    "original_code_sha256": "52c332391467d8584169091b9367424700bbd119b4197d7bef5a8f1cfbba04a6",
+    "canonical_ast_sha256": "4cd053ce3e4153bfbddf7f30ec552e9a499d0a02b12c36b8fb94427cd01f5921",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-098-p01",
+      "dev-fresh-reconstruction-098-p02",
+      "dev-fresh-reconstruction-098-p03",
+      "dev-fresh-reconstruction-098-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-100",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 100,
+    "original_code_sha256": "6f797f9ec076f4ceb421c6ccf7290a4568f5929047f3970e62cf2127da11a075",
+    "canonical_ast_sha256": "a53ae4afff5e071c079ce4effa644a52111cb39f68dbd8ce19ffd9586d0005fe",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-100-p01",
+      "dev-fresh-reconstruction-100-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-102",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 102,
+    "original_code_sha256": "1adf88c25819a15bd35dbc018b9a39892d716d36cca827160a47a08d73222071",
+    "canonical_ast_sha256": "ad618ff50035a2a57d3ddd58194512d223046a93ef9e96b050a458b99706b475",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-102-p01",
+      "dev-fresh-reconstruction-102-p02",
+      "dev-fresh-reconstruction-102-p03",
+      "dev-fresh-reconstruction-102-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-106",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 106,
+    "original_code_sha256": "468c50a4fc1336139f93d0d754808076251490030f63de5f377304269947bda8",
+    "canonical_ast_sha256": "ef261feda4fc3c6620f518fabe8ea341e58fba3577eeb3503cbb07fa4782b657",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-106-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-108",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 108,
+    "original_code_sha256": "5c4212cbc84143b93f23e78c5afff8d090d399d9c2f525f3bfd632a733d521ff",
+    "canonical_ast_sha256": "91c59b6524717d1c84398e5fc6a7805810ef9a8317d6bf78cdae161be0e0cbfe",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-108-p01",
+      "dev-fresh-reconstruction-108-p02",
+      "dev-fresh-reconstruction-108-p03",
+      "dev-fresh-reconstruction-108-p04",
+      "dev-fresh-reconstruction-108-p05",
+      "dev-fresh-reconstruction-108-p06",
+      "dev-fresh-reconstruction-108-p07",
+      "dev-fresh-reconstruction-108-p08"
+    ],
+    "parts": 8,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-111",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 111,
+    "original_code_sha256": "286b27d17fc46d5996112773ed6d9a9b50c604d74bc59d24df26d75a8a3779b0",
+    "canonical_ast_sha256": "21210e984d208e74c81cb01ba249059267c8b3f0b93eda6d93441705ca2322f2",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-111-p01",
+      "dev-fresh-reconstruction-111-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-113",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 113,
+    "original_code_sha256": "85ae41e31f5d73d765390c1620ece3f02f18190e4bbbd7d1c98625bb7102f933",
+    "canonical_ast_sha256": "d85bb08da4bfd6e7dfc404e9925012d1f993cf55eb8a05717089b1ce472ce0b5",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-113-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "e101615c",
+    "source_notebook": null,
+    "source_cell": null,
+    "original_code_sha256": "b31e255c17ce4748d37649121096bb1088dcfa0beaefa935c4d7e89e41a25fba",
+    "canonical_ast_sha256": "9cbbf74ece9ee6eaf9150be6a919220d5f82d611dd55f6c430656b50fcb906e8",
+    "output_cell_ids": [
+      "e101615c-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-123",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 123,
+    "original_code_sha256": "3fc8a9f8a5e3f7a98a2fd59c3e362df52e8ced09fa1578fe673a8ed75dabffab",
+    "canonical_ast_sha256": "94b6269638b25c93dd7c55e4a0a270c29564488c1082a53e41aefd3f279d847e",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-123-p01",
+      "dev-fresh-reconstruction-123-p02",
+      "dev-fresh-reconstruction-123-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-125",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 125,
+    "original_code_sha256": "58764b8b42120c9af392b10b340366a57aff3f3178d234c9d76b7d22fd902dc7",
+    "canonical_ast_sha256": "75194e59ffe9ebf13474d26d2981ac64c99eb38d2a63e9a1e8e637c59a05099e",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-125-p01",
+      "dev-fresh-reconstruction-125-p02",
+      "dev-fresh-reconstruction-125-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-126",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 126,
+    "original_code_sha256": "c7ede8051f7e9196dc39134f01195f520b9eb44676009e63d81aa502352f1cd0",
+    "canonical_ast_sha256": "6a102fc682c53bbc8e2b89621447542477f3ff595d72fa029cb39dd9d15bae2d",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-126-p01",
+      "dev-fresh-reconstruction-126-p02",
+      "dev-fresh-reconstruction-126-p03",
+      "dev-fresh-reconstruction-126-p04",
+      "dev-fresh-reconstruction-126-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-128",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 128,
+    "original_code_sha256": "2125cc595dbf7f7e0d232442d2cc0d7cfa1dca723b954eb5df7586964821dfe6",
+    "canonical_ast_sha256": "0c13c7a98b149240d4d9b4cf8c89601655b0f5159e3c0ec83f62a9c47324eb31",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-128-p01",
+      "dev-fresh-reconstruction-128-p02",
+      "dev-fresh-reconstruction-128-p03",
+      "dev-fresh-reconstruction-128-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-129",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 129,
+    "original_code_sha256": "a5f74c4b3397105bf4fa476784c296c2727894b11c2233e8e48bfebdbe5ee922",
+    "canonical_ast_sha256": "5d5510e055154535f5bf06390440e0c08b03b45fc15ee6edcf90fc1356f461e8",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-129-p01",
+      "dev-fresh-reconstruction-129-p02",
+      "dev-fresh-reconstruction-129-p03",
+      "dev-fresh-reconstruction-129-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-132",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 132,
+    "original_code_sha256": "eb4ada880b0d15d68eb96cc1c296386d4f3de136dc5526027d1b00f132576b8d",
+    "canonical_ast_sha256": "56d62e97024180b3921ec17074dc3b6181ba0e83a4d657241712198057742735",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-132-p01",
+      "dev-fresh-reconstruction-132-p02",
+      "dev-fresh-reconstruction-132-p03",
+      "dev-fresh-reconstruction-132-p04",
+      "dev-fresh-reconstruction-132-p05",
+      "dev-fresh-reconstruction-132-p06",
+      "dev-fresh-reconstruction-132-p07",
+      "dev-fresh-reconstruction-132-p08"
+    ],
+    "parts": 8,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-133",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 133,
+    "original_code_sha256": "0f3a5423976d063af496023110997e2fd22972079a4e843909563ae01e9e9db9",
+    "canonical_ast_sha256": "c37a7406f9ec54452157f263bbdae97cdf167f23341c0395569be024c2c073f1",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-133-p01",
+      "dev-fresh-reconstruction-133-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-135",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 135,
+    "original_code_sha256": "1feaaa0017f9695243c51a6228251ce580847c7f6aec54466365c53fc81d5765",
+    "canonical_ast_sha256": "0aad90f46e9beabfbb7086958df29a250c7553f1e55d36a7bbbdae2fd5b38353",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-135-p01",
+      "dev-fresh-reconstruction-135-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-136",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 136,
+    "original_code_sha256": "016a5bcb7e3aae7fdc975bb258e0839dc059431240d5dd4793d2cdeb2669ea77",
+    "canonical_ast_sha256": "fda08d4bae04c75b64073709d302c61edb59cd37ec5f26003dc661ed50902bdd",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-136-p01",
+      "dev-fresh-reconstruction-136-p02",
+      "dev-fresh-reconstruction-136-p03",
+      "dev-fresh-reconstruction-136-p04",
+      "dev-fresh-reconstruction-136-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-138",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 138,
+    "original_code_sha256": "ab1006812bd20565e4fd0cd35d36454fcffe956f1cf2516cc02675d6486268a5",
+    "canonical_ast_sha256": "543555fe2f0c74e8aba47310aedb47629ae4a64e7cd09547276c7e2c37ade928",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-138-p01",
+      "dev-fresh-reconstruction-138-p02",
+      "dev-fresh-reconstruction-138-p03",
+      "dev-fresh-reconstruction-138-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-140",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 140,
+    "original_code_sha256": "809641cd8c016eb454cb2c58cc4f6f9bc974490ee86df58f9d1be2a89b17296a",
+    "canonical_ast_sha256": "5127f32ef6b07abe7d0ce7daef1a1d0bb1b7ede34d3ccd5793562df1d913dd28",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-140-p01",
+      "dev-fresh-reconstruction-140-p02",
+      "dev-fresh-reconstruction-140-p03",
+      "dev-fresh-reconstruction-140-p04",
+      "dev-fresh-reconstruction-140-p05",
+      "dev-fresh-reconstruction-140-p06",
+      "dev-fresh-reconstruction-140-p07"
+    ],
+    "parts": 7,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-141",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 141,
+    "original_code_sha256": "45fc9d9efff2e4df9f90a74e67e6a0fe22759c44061ee0643c2ffa6f9981c637",
+    "canonical_ast_sha256": "8b5c922950662613c4fa0ed4977ea2d653d1807f97c61eadc8ca7cf17fd2f683",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-141-p01",
+      "dev-fresh-reconstruction-141-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-143",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 143,
+    "original_code_sha256": "9a05c644bde4d58cf62a9955089142e111d3df4838a7b71fa91dcf87126208ad",
+    "canonical_ast_sha256": "15479db44d729f352003cdf467f4c482ca578ef27bab369f545d75dfa0950423",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-143-p01",
+      "dev-fresh-reconstruction-143-p02",
+      "dev-fresh-reconstruction-143-p03",
+      "dev-fresh-reconstruction-143-p04",
+      "dev-fresh-reconstruction-143-p05",
+      "dev-fresh-reconstruction-143-p06",
+      "dev-fresh-reconstruction-143-p07",
+      "dev-fresh-reconstruction-143-p08"
+    ],
+    "parts": 8,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-144",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 144,
+    "original_code_sha256": "a3f1cee2195fc7d508b825b1042c692a74c3face73df61873510038c8d4cf6d9",
+    "canonical_ast_sha256": "8188430b5227d8eb05ac3508de2c161bb7f0c7dd123828ffd496dc7b03db6a1f",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-144-p01",
+      "dev-fresh-reconstruction-144-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-147",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 147,
+    "original_code_sha256": "9ed4d46dd483d09cafd5de23dfed4a1535eb9e261b6390ace58b786005f3bf0e",
+    "canonical_ast_sha256": "441d1df5463c2a0c93a119656414d01f938c966eeb3e0351944313beaae30032",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-147-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-149",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 149,
+    "original_code_sha256": "5a6b7f8cc73132e78e96863c02608504444be8f61b882b1ea1f2e7d90c0e70eb",
+    "canonical_ast_sha256": "fad3d131797979b305ac73dcb6d87c12b315b3504a3d96a80423cee328b4f2a4",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-149-p01",
+      "dev-fresh-reconstruction-149-p02",
+      "dev-fresh-reconstruction-149-p03",
+      "dev-fresh-reconstruction-149-p04",
+      "dev-fresh-reconstruction-149-p05",
+      "dev-fresh-reconstruction-149-p06"
+    ],
+    "parts": 6,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-150",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 150,
+    "original_code_sha256": "97c1e081d3bd632c184a411cf7bb57a99b353a3f1eebe835973f4842178813f0",
+    "canonical_ast_sha256": "94eec0fedc4015e95399466ae3dd60d785aba962ac7de271eec34f1f2b5cf963",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-150-p01",
+      "dev-fresh-reconstruction-150-p02",
+      "dev-fresh-reconstruction-150-p03",
+      "dev-fresh-reconstruction-150-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-153",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 153,
+    "original_code_sha256": "5fa7f99421dddd4dc0045ef6279638fee354d491b8d0bd1b8d8b46e26dc35a81",
+    "canonical_ast_sha256": "786c7fef67f1bec924274e3315047ba4c304ab4e0a8fa508df83d6619939579c",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-153-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-155",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 155,
+    "original_code_sha256": "b4d37bb4d5669fba17da431d7948f342e80b14e0ba64a9142f394725d9c52320",
+    "canonical_ast_sha256": "3b3b1b531dd97bdee8b4b6ea545d46d638790e9d11055c86c629830c27885396",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-155-p01",
+      "dev-fresh-reconstruction-155-p02",
+      "dev-fresh-reconstruction-155-p03",
+      "dev-fresh-reconstruction-155-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-156",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 156,
+    "original_code_sha256": "9c00e217bf7b8b2dc188841f2b4cd16002a7557baf1df8109e23fbd35d8d1a30",
+    "canonical_ast_sha256": "d7488283a4f7c96ad4cab056536c2c9c22e0430ce44cd43b36154aff77d908f8",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-156-p01",
+      "dev-fresh-reconstruction-156-p02",
+      "dev-fresh-reconstruction-156-p03",
+      "dev-fresh-reconstruction-156-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-157",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 157,
+    "original_code_sha256": "3b67e08634fff12c0e4873a3791735e4fb45ca5075673dfa3b736d69555770dd",
+    "canonical_ast_sha256": "6b9084766e27fc45f08b99b35432346b0411d9357e8ed45e271f754bda537078",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-157-p01",
+      "dev-fresh-reconstruction-157-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-159",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 159,
+    "original_code_sha256": "570918ee3d14d121ec21e4d8f6a176f715f123527238d5aaa106f1afc4b1e77d",
+    "canonical_ast_sha256": "cf0397b6b5443595f356997347f8a96b09700f49ef2e0b4a1d4ae86c9d7c3dfd",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-159-p01",
+      "dev-fresh-reconstruction-159-p02",
+      "dev-fresh-reconstruction-159-p03",
+      "dev-fresh-reconstruction-159-p04"
+    ],
+    "parts": 4,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-160",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 160,
+    "original_code_sha256": "138138eff868c13924707520ecdd23484ed89638f07a595e0d647087ae41e925",
+    "canonical_ast_sha256": "4aaff3d4d994796547f99faa8f9ea6210cb7b9926fd73ea7fda3d041d05dfa3e",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-160-p01",
+      "dev-fresh-reconstruction-160-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-fresh-reconstruction-163",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 163,
+    "original_code_sha256": "7325428bfa6aaf54c32bba78e87c21afb54faf48373343b03f7185d87a905332",
+    "canonical_ast_sha256": "939979015266a16184f1c0c75cf82536229ea6025cda578cf369a785b08dc3aa",
+    "output_cell_ids": [
+      "dev-fresh-reconstruction-163-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-stage9-original-127",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 127,
+    "original_code_sha256": "1dd259c24682592e70c1d1114c01fff8b842ee1ed6971dd4306c4483e6d996d7",
+    "canonical_ast_sha256": "a276221f7c7ef4a1f6fa46112f25bc14feeb02442080998ace49b5b7fd087aee",
+    "output_cell_ids": [
+      "dev-stage9-original-127-p01",
+      "dev-stage9-original-127-p02",
+      "dev-stage9-original-127-p03",
+      "dev-stage9-original-127-p04",
+      "dev-stage9-original-127-p05"
+    ],
+    "parts": 5,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-stage9-original-129",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 129,
+    "original_code_sha256": "1c89ba754b73003436130a6b84945be6aecbbd5de1b15149be58c5a2ae040f30",
+    "canonical_ast_sha256": "8b1becd15b422c5a4548c443af019ab6c6a1435f3ede139531d8fbac7354c3eb",
+    "output_cell_ids": [
+      "dev-stage9-original-129-p01",
+      "dev-stage9-original-129-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "dev-stage9-original-130",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 130,
+    "original_code_sha256": "73981b5431236bef84c0be450000f12f766f9e1faac17f13aeb737a6a7b2adf8",
+    "canonical_ast_sha256": "90b9b8cbed02e0abc75ab8599926dae27d929ff98f4417260441cc306c82f04b",
+    "output_cell_ids": [
+      "dev-stage9-original-130-p01",
+      "dev-stage9-original-130-p02",
+      "dev-stage9-original-130-p03",
+      "dev-stage9-original-130-p04",
+      "dev-stage9-original-130-p05",
+      "dev-stage9-original-130-p06",
+      "dev-stage9-original-130-p07",
+      "dev-stage9-original-130-p08",
+      "dev-stage9-original-130-p09",
+      "dev-stage9-original-130-p10"
+    ],
+    "parts": 10,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "02",
+    "parent_cell_id": "84f2b3da",
+    "source_notebook": null,
+    "source_cell": null,
+    "original_code_sha256": "7b425be90ce9eef5e60d2dd3a803433e66967d53d04cc2e5286485796e579b0e",
+    "canonical_ast_sha256": "2767860279123116617bd98f19c0f250011f8db47933c1090837b7ad24768850",
+    "output_cell_ids": [
+      "84f2b3da-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-005",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 5,
+    "original_code_sha256": "388b9d5d87ab0f720a44b9e5f97aee2062bbfe112ce594ceb99418eff7fcf617",
+    "canonical_ast_sha256": "9a0577e9f94d63d7b3271dbbc541a25b2ae635912b55da5354c8a614d6d48858",
+    "output_cell_ids": [
+      "final-source-005-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-006",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 6,
+    "original_code_sha256": "d070515177b7d1aa64f0679ba18f28ce5ff907f02057c70b37c25d82c4fe4294",
+    "canonical_ast_sha256": "c44b9a5df730d37ae71e195cec2f32a2beb7db2c7650a9e390cb6eeca2e2cf30",
+    "output_cell_ids": [
+      "final-source-006-p01",
+      "final-source-006-p02"
+    ],
+    "parts": 2,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-008",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 8,
+    "original_code_sha256": "480a023cf781ed936fce4d1ca9d225e78fc4d9ed72a7e5130e66378aac1876cb",
+    "canonical_ast_sha256": "8b2c621f6389e30f92a97715f80ef7af6480d34c01f6a0a3babcf7bb65645369",
+    "output_cell_ids": [
+      "final-source-008-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-010",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 10,
+    "original_code_sha256": "8962d08e87b26f219bf38c96f022e1fc7fd80d163f1a8a3c665563fe85bfc2ef",
+    "canonical_ast_sha256": "7bd4ce7c1e6e33f1fa39012f0a0476bcc8ea30f5af2c950a6de9b0b4ae3c0a95",
+    "output_cell_ids": [
+      "final-source-010-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-013",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 13,
+    "original_code_sha256": "b7e842928ffc7547fafd439706b016fd1ec12d6e3b117ec0624e955162dababb",
+    "canonical_ast_sha256": "752b824868657aa234a31695f3fcfaf0b8d9e3aba606f2343ba372f4ce38a2c1",
+    "output_cell_ids": [
+      "final-source-013-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-015",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 15,
+    "original_code_sha256": "b834096270f056b86563a8bc4471e9e753fa8be968f60a855641b9c5d19d2d9c",
+    "canonical_ast_sha256": "8ccffc64d3ed983a09b6116ad176d1008a476b193e656540679e37daf764fe94",
+    "output_cell_ids": [
+      "final-source-015-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-018",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 18,
+    "original_code_sha256": "60f6f146a83f7b00da6a872109f6d607d8212ae22d2d0e1d355c831d3d04bf90",
+    "canonical_ast_sha256": "afa74e5be8da42ec6b4d704a45a09527d5cb117e0060efb4c78fa06a479d5cca",
+    "output_cell_ids": [
+      "final-source-018-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-021",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 21,
+    "original_code_sha256": "fe1e92418381562fe240bf233a071883665604188de8c2bf577a12b67d4a787c",
+    "canonical_ast_sha256": "f133f4dcbbb0afd876854384b99684ca865915c7176346553b9b01e58ce776ea",
+    "output_cell_ids": [
+      "final-source-021-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-023",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 23,
+    "original_code_sha256": "01c3f5924641424935d6858bd071a2700e28c8b496c5de0f97ac6e3513b6ed52",
+    "canonical_ast_sha256": "ec597e00c95261dd5ab0d60be27fd3121fb2abd6348df447c2e8a7213093b3a8",
+    "output_cell_ids": [
+      "final-source-023-p01",
+      "final-source-023-p02",
+      "final-source-023-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-025",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 25,
+    "original_code_sha256": "cd21f176313a7c0fda472e48e6fdee060ae8e63cfc8ff90ca145858a697533c1",
+    "canonical_ast_sha256": "93db02225e84cbff5a1bf45e80d0b26c3070456641e354fe0da2b1e716ab9c13",
+    "output_cell_ids": [
+      "final-source-025-p01",
+      "final-source-025-p02",
+      "final-source-025-p03"
+    ],
+    "parts": 3,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-027",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 27,
+    "original_code_sha256": "9ade0ff28a47363835df7d94f208f85e43be5b46c76e1d5774ec848cb9aefad3",
+    "canonical_ast_sha256": "49f0430effd0cec9f7429daddd46fc0b0023b5664189758b068b49d65b1036a0",
+    "output_cell_ids": [
+      "final-source-027-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-029",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 29,
+    "original_code_sha256": "6b02fca11c57ba329d675f64d87614c5f9a36c4799b35f2e46f2e6466889e61d",
+    "canonical_ast_sha256": "25aebb182a3f375a5c7a33689df572064f8a2ee8964ef8e35c83217b392f88db",
+    "output_cell_ids": [
+      "final-source-029-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-032",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 32,
+    "original_code_sha256": "c97d20ada210a1147978233adbcc9d126758d8c7dbf754abe04b9da92c1bd5e9",
+    "canonical_ast_sha256": "5ad2ed6021b052b707defbd3f287efc20625b62840a3e4c87c5e2d9a016c72a7",
+    "output_cell_ids": [
+      "final-source-032-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-034",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 34,
+    "original_code_sha256": "0edec2438392165d75f14d70b2ed0970774e6ace057e9d269bc582316c50e1e4",
+    "canonical_ast_sha256": "e382355ad6a857317067a7b2b10c27072a9b51e1895ab2018edc7540a7440670",
+    "output_cell_ids": [
+      "final-source-034-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-036",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 36,
+    "original_code_sha256": "d37aa313780a9c799383fad73cf0670ae84b746e2ec47054debc42a7b133d6fd",
+    "canonical_ast_sha256": "a29785076576a6c14d1de2333c75a67407bc83244a9b68e58013cdb9ee607cce",
+    "output_cell_ids": [
+      "final-source-036-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-038",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 38,
+    "original_code_sha256": "b9f3d06adeec617f52a7bef064cb816f60b294cac2f6bcec90af3f32686c6517",
+    "canonical_ast_sha256": "fa394b61189e71c8656120d4f8e5272495f74f4523484dfb6dace872e3781ee9",
+    "output_cell_ids": [
+      "final-source-038-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-040",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 40,
+    "original_code_sha256": "3c04ad8ebde1e4271e11b1f31bdc0eec663f46f3b9c3ba1901b613ffe9082ce2",
+    "canonical_ast_sha256": "0c4435bbb51d20d7909caef2ac3526d25e17443cf8601605ea81f86007bc94dc",
+    "output_cell_ids": [
+      "final-source-040-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  },
+  {
+    "notebook": "01",
+    "parent_cell_id": "final-source-042",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 42,
+    "original_code_sha256": "5f712f7f95729c8cd37560491d6b789e357902af1148f31379536c45126a1315",
+    "canonical_ast_sha256": "f27ebd55e6c364689d21c90c3693069754daabd8654ba4bb104324e5a7dad37e",
+    "output_cell_ids": [
+      "final-source-042-p01"
+    ],
+    "parts": 1,
+    "statement_order_preserved": true,
+    "numerical_statements_unchanged": true
+  }
+]

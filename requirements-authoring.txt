@@ -1,0 +1,4 @@
+# Optional report PDF authoring only; numerical experiments do not need ReportLab.
+reportlab==4.4.9
+# Optional Python source formatting only; never changes notebook methods.
+black==25.1.0

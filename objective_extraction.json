@@ -1,0 +1,27 @@
+{
+  "build_candidate_features": {
+    "notebook": "fresh_reconstruction.ipynb",
+    "cell": 50,
+    "original_ast_sha256": "693217f000c34c8e2f2e7caaebfc64c5f9ecd304c5426c0b99cd000e8d4b2065"
+  },
+  "evaluate_ols_cv": {
+    "notebook": "fresh_reconstruction.ipynb",
+    "cell": 50,
+    "original_ast_sha256": "cfbf1c32864a1e45230ac9884909bced8b710dfacd0c92690ad690cf7b9758d1"
+  },
+  "evaluate_model_cv": {
+    "notebook": "fresh_reconstruction.ipynb",
+    "cell": 66,
+    "original_ast_sha256": "1fdba401b250f8fe759444da62be2189a0e1fe2e647b6aaa61fafef94ad88175"
+  },
+  "evaluate_full_ols_cv": {
+    "notebook": "fresh_reconstruction.ipynb",
+    "cell": 86,
+    "original_ast_sha256": "54672b14b8007f9395daccddde82da90e89f354d4d93ef01269f6b845ea5ac83"
+  },
+  "evaluate_larger_model_cv": {
+    "notebook": "fresh_reconstruction.ipynb",
+    "cell": 100,
+    "original_ast_sha256": "9abaae7d375e9b922a0c57e99b87f71750d53e7a66433ad7df4889303302f202"
+  }
+}

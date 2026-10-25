@@ -1,0 +1,513 @@
+[
+  {
+    "section": "2.1",
+    "title": "Portable runtime and reproducibility controls",
+    "research_questions": "RQ1\u2013RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 2.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "2.2",
+    "title": "Dataset provenance, schema and byte integrity",
+    "research_questions": "RQ1",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 2.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "3.1",
+    "title": "Profile statistics and data-quality checks",
+    "research_questions": "RQ1",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 3.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "3.2",
+    "title": "Row-split diagnostic and profile-disjoint assignment",
+    "research_questions": "RQ1",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 3.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "4.1",
+    "title": "Measured and derived operating-state inputs",
+    "research_questions": "RQ1",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 4.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "4.2",
+    "title": "Causal EWMA/EWMS implementation",
+    "research_questions": "RQ1",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 4.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "4.3",
+    "title": "Numerical and visual verification of temporal memory",
+    "research_questions": "RQ1, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 4.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "5.1",
+    "title": "Stratified grouped three-fold validation",
+    "research_questions": "RQ1, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 5.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "5.2",
+    "title": "Preliminary estimator interface checks",
+    "research_questions": "RQ1, RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 5.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "5.3",
+    "title": "Preliminary OLS error localisation",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 5.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "5.4",
+    "title": "Recording-start sensitivity",
+    "research_questions": "RQ1, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 5.4.",
+    "notebook": "02"
+  },
+  {
+    "section": "5.5",
+    "title": "OLS outlier influence and treatment decision",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 5.5.",
+    "notebook": "02"
+  },
+  {
+    "section": "6.1",
+    "title": "Initial OLS Gaussian-process pilot",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 6.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "6.2",
+    "title": "Review of pilot intervals and boundary evidence",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 6.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "6.3",
+    "title": "Expanded OLS ask/tell search",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 6.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.1",
+    "title": "SVR",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Original five-model pilot; source cells 65\u201370. Larger search: section 10.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.2",
+    "title": "k-NN",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Original five-model pilot; source cells 65\u201370. Larger search: section 10.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.3",
+    "title": "Random Forest",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Original five-model pilot; source cells 65\u201370. Larger search: section 10.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.4",
+    "title": "Extra Trees",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Original five-model pilot; source cells 65\u201370. Larger search: section 10.4.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.5",
+    "title": "MLP",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Original five-model pilot; source cells 65\u201370. Larger search: section 10.5.",
+    "notebook": "02"
+  },
+  {
+    "section": "7.6",
+    "title": "Common five-model Bayesian implementation and pilot comparison",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 7.6.",
+    "notebook": "02"
+  },
+  {
+    "section": "8.1",
+    "title": "Initial and fixed-validation RBF-SVR scaling",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 8.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "8.2",
+    "title": "Nested sampling and repeated three-fold timings",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 8.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "9.1",
+    "title": "Full-development QR OLS feasibility",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 9.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "9.2",
+    "title": "QR equivalence and numerical rank verification",
+    "research_questions": "RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 9.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "9.3",
+    "title": "Twenty-evaluation full-data Bayesian OLS search",
+    "research_questions": "RQ2, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 9.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.1",
+    "title": "SVR",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Common execution: following unchanged evaluate_larger_model_cv and optimiser cells.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.2",
+    "title": "k-NN",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Common execution: following unchanged evaluate_larger_model_cv and optimiser cells.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.3",
+    "title": "Random Forest",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Common execution: following unchanged evaluate_larger_model_cv and optimiser cells.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.4",
+    "title": "Extra Trees",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Common execution: following unchanged evaluate_larger_model_cv and optimiser cells.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.5",
+    "title": "MLP",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Common execution: following unchanged evaluate_larger_model_cv and optimiser cells.",
+    "notebook": "02"
+  },
+  {
+    "section": "10.6",
+    "title": "Common larger-search execution and consolidation",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 10.6.",
+    "notebook": "02"
+  },
+  {
+    "section": "11.1",
+    "title": "Historical training-feasibility measurements",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 11.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.1",
+    "title": "Stage 9A: fresh SVR reference and invariants",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.2",
+    "title": "Stage 9B: common screened dataset and feature parity",
+    "research_questions": "RQ1, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.2.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.3",
+    "title": "Stage 9C: training-only scaling and Nystr\u00f6m kernel check",
+    "research_questions": "RQ1, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.3.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.4",
+    "title": "Stage 9D: controlled four-method screening",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.4.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.5",
+    "title": "Stage 9E: regularisation and convergence sensitivity",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.5.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.6",
+    "title": "Stage 9F: Nystr\u00f6m approximation capacity",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.6.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.7",
+    "title": "Stage 9G: confirmation on the original outer fold",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.7.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.8",
+    "title": "Stage 9H: three-fold grouped efficient-SVR comparison",
+    "research_questions": "RQ1, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.8.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.9",
+    "title": "Stage 9I: direct LinearSVR C grid",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.9.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.10",
+    "title": "Stage 9J: larger training samples",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.10.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.11",
+    "title": "Stage 9K: sample-size-aware regularisation",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.11.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.12",
+    "title": "Stage 9L: full-development feature reconstruction",
+    "research_questions": "RQ1, RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.12.",
+    "notebook": "02"
+  },
+  {
+    "section": "12.13",
+    "title": "Stage 9M: full-development LinearSVR and persistence",
+    "research_questions": "RQ3, RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 12.13.",
+    "notebook": "02"
+  },
+  {
+    "section": "13.1",
+    "title": "Evidence-backed configuration export",
+    "research_questions": "RQ1\u2013RQ4",
+    "evidence": "Source-stage mapping and file-level evidence: `docs/EXPERIMENT_REGISTER.md`, section 13.1.",
+    "notebook": "02"
+  },
+  {
+    "section": "2.1",
+    "title": "Runtime, portable files and fresh execution",
+    "research_questions": "RQ1\u2013RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 2.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "2.2",
+    "title": "Original measurements and byte verification",
+    "research_questions": "RQ1",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 2.2.",
+    "notebook": "01"
+  },
+  {
+    "section": "2.3",
+    "title": "Established development and held-out partition",
+    "research_questions": "RQ1",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 2.3.",
+    "notebook": "01"
+  },
+  {
+    "section": "3.1",
+    "title": "Canonical physical and temporal features",
+    "research_questions": "RQ1",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 3.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "3.2",
+    "title": "Numerical checks and grouped-fold compatibility",
+    "research_questions": "RQ1, RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 3.2.",
+    "notebook": "01"
+  },
+  {
+    "section": "4.1",
+    "title": "Strict import and six-model agreement",
+    "research_questions": "RQ1\u2013RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 4.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "5.1",
+    "title": "Profile-wise augmented QR and independent identity",
+    "research_questions": "RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 5.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "5.2",
+    "title": "Training matrix and estimator factories",
+    "research_questions": "RQ1, RQ2, RQ3",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 5.2.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.1",
+    "title": "OLS",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.1; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.2",
+    "title": "k-NN",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.2; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.3",
+    "title": "Extra Trees",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.3; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.4",
+    "title": "MLP",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.4; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.5",
+    "title": "Random Forest",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.5; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "6.6",
+    "title": "LinearSVR",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Final training: Chapter 7; model-specific results: section 9.6; factory: pmsm_project.models / pmsm_project.numerics.",
+    "notebook": "01"
+  },
+  {
+    "section": "8.1",
+    "title": "Fixed held-out prediction and checkpoint identity",
+    "research_questions": "RQ1, RQ2, RQ3",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 8.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "8.2",
+    "title": "Pooled and per-profile metric definitions",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 8.2.",
+    "notebook": "01"
+  },
+  {
+    "section": "9.1",
+    "title": "OLS final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "9.2",
+    "title": "k-NN final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "9.3",
+    "title": "Extra Trees final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "9.4",
+    "title": "MLP final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "9.5",
+    "title": "Random Forest final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "9.6",
+    "title": "LinearSVR final evidence",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "",
+    "notebook": "01"
+  },
+  {
+    "section": "10.1",
+    "title": "Session-level RMSE and signed bias",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 10.1.",
+    "notebook": "01"
+  },
+  {
+    "section": "10.2",
+    "title": "Bias\u2013variance error decomposition",
+    "research_questions": "RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 10.2.",
+    "notebook": "01"
+  },
+  {
+    "section": "10.3",
+    "title": "Measured and predicted temperature histories",
+    "research_questions": "RQ2, RQ3, RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 10.3.",
+    "notebook": "01"
+  },
+  {
+    "section": "11.1",
+    "title": "Consistency audit, historical comparison and portable outputs",
+    "research_questions": "RQ1\u2013RQ4",
+    "evidence": "Actual source mapping and output register: `docs/EXPERIMENT_REGISTER.md`, final section 11.1.",
+    "notebook": "01"
+  }
+]

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools==80.9.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mma3001-pmsm-project"
+version = "2.0.0"
+description = "Profile-disjoint PMSM temperature estimation and preserved numerical investigations"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{name = "Fatah Idris Putra Daulay"}]
+dependencies = ["numpy==2.2.6", "pandas==2.2.3", "scipy==1.15.3", "scikit-learn==1.6.1", "scikit-optimize==0.10.2", "matplotlib==3.10.3", "seaborn==0.13.2", "joblib==1.5.1", "psutil==7.0.0", "kagglehub==0.3.12"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = ["integration: requires the original local CSV", "slow: exercises full dataset checks"]

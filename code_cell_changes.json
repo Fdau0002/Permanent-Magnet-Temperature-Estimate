@@ -1,0 +1,1361 @@
+[
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-004",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 4,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-004-p01",
+      "dev-fresh-reconstruction-004-p02"
+    ],
+    "educational_section": "2.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-006",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 6,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-006-p01"
+    ],
+    "educational_section": "2.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-007",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 7,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-007-p01"
+    ],
+    "educational_section": "2.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-010",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 10,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-010-p01"
+    ],
+    "educational_section": "3.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-012",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 12,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-012-p01"
+    ],
+    "educational_section": "3.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-015",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 15,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-015-p01"
+    ],
+    "educational_section": "3.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-017",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 17,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-017-p01",
+      "dev-fresh-reconstruction-017-p02"
+    ],
+    "educational_section": "3.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-018",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 18,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-018-p01"
+    ],
+    "educational_section": "3.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-023",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 23,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-023-p01"
+    ],
+    "educational_section": "4.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-025",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 25,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-025-p01"
+    ],
+    "educational_section": "4.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-026",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 26,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-026-p01",
+      "dev-fresh-reconstruction-026-p02"
+    ],
+    "educational_section": "4.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-028",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 28,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-028-p01"
+    ],
+    "educational_section": "4.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-030",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 30,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-030-p01"
+    ],
+    "educational_section": "4.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-033",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 33,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-033-p01",
+      "dev-fresh-reconstruction-033-p02",
+      "dev-fresh-reconstruction-033-p03",
+      "dev-fresh-reconstruction-033-p04"
+    ],
+    "educational_section": "5.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-036",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 36,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-036-p01",
+      "dev-fresh-reconstruction-036-p02"
+    ],
+    "educational_section": "5.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-038",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 38,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-038-p01",
+      "dev-fresh-reconstruction-038-p02",
+      "dev-fresh-reconstruction-038-p03"
+    ],
+    "educational_section": "5.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-040",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 40,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-040-p01",
+      "dev-fresh-reconstruction-040-p02",
+      "dev-fresh-reconstruction-040-p03",
+      "dev-fresh-reconstruction-040-p04",
+      "dev-fresh-reconstruction-040-p05",
+      "dev-fresh-reconstruction-040-p06"
+    ],
+    "educational_section": "5.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-042",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 42,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-042-p01",
+      "dev-fresh-reconstruction-042-p02"
+    ],
+    "educational_section": "5.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-044",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 44,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-044-p01",
+      "dev-fresh-reconstruction-044-p02"
+    ],
+    "educational_section": "5.4"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-046",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 46,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-046-p01",
+      "dev-fresh-reconstruction-046-p02"
+    ],
+    "educational_section": "5.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-050",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 50,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-050-p01",
+      "dev-fresh-reconstruction-050-p02"
+    ],
+    "educational_section": "6.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-052",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 52,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-052-p01"
+    ],
+    "educational_section": "6.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-053",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 53,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-053-p01",
+      "dev-fresh-reconstruction-053-p02",
+      "dev-fresh-reconstruction-053-p03"
+    ],
+    "educational_section": "6.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-054",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 54,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-054-p01",
+      "dev-fresh-reconstruction-054-p02"
+    ],
+    "educational_section": "6.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-056",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 56,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-056-p01",
+      "dev-fresh-reconstruction-056-p02"
+    ],
+    "educational_section": "6.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-057",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 57,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-057-p01",
+      "dev-fresh-reconstruction-057-p02",
+      "dev-fresh-reconstruction-057-p03",
+      "dev-fresh-reconstruction-057-p04"
+    ],
+    "educational_section": "6.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-058",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 58,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-058-p01",
+      "dev-fresh-reconstruction-058-p02"
+    ],
+    "educational_section": "6.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-065",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 65,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-065-p01"
+    ],
+    "educational_section": "7.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-066",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 66,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-066-p01"
+    ],
+    "educational_section": "7.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-067",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 67,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-067-p01",
+      "dev-fresh-reconstruction-067-p02",
+      "dev-fresh-reconstruction-067-p03",
+      "dev-fresh-reconstruction-067-p04",
+      "dev-fresh-reconstruction-067-p05",
+      "dev-fresh-reconstruction-067-p06"
+    ],
+    "educational_section": "7.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-068",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 68,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-068-p01",
+      "dev-fresh-reconstruction-068-p02"
+    ],
+    "educational_section": "7.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-070",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 70,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-070-p01",
+      "dev-fresh-reconstruction-070-p02",
+      "dev-fresh-reconstruction-070-p03"
+    ],
+    "educational_section": "7.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-073",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 73,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-073-p01",
+      "dev-fresh-reconstruction-073-p02",
+      "dev-fresh-reconstruction-073-p03",
+      "dev-fresh-reconstruction-073-p04",
+      "dev-fresh-reconstruction-073-p05"
+    ],
+    "educational_section": "8.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-074",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 74,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-074-p01",
+      "dev-fresh-reconstruction-074-p02",
+      "dev-fresh-reconstruction-074-p03",
+      "dev-fresh-reconstruction-074-p04"
+    ],
+    "educational_section": "8.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-075",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 75,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-075-p01",
+      "dev-fresh-reconstruction-075-p02"
+    ],
+    "educational_section": "8.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-076",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 76,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-076-p01",
+      "dev-fresh-reconstruction-076-p02",
+      "dev-fresh-reconstruction-076-p03",
+      "dev-fresh-reconstruction-076-p04"
+    ],
+    "educational_section": "8.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-078",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 78,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-078-p01",
+      "dev-fresh-reconstruction-078-p02",
+      "dev-fresh-reconstruction-078-p03",
+      "dev-fresh-reconstruction-078-p04",
+      "dev-fresh-reconstruction-078-p05"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-080",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 80,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-080-p01",
+      "dev-fresh-reconstruction-080-p02",
+      "dev-fresh-reconstruction-080-p03"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-083",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 83,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-083-p01",
+      "dev-fresh-reconstruction-083-p02",
+      "dev-fresh-reconstruction-083-p03"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-084",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 84,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-084-p01"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-086",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 86,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-086-p01"
+    ],
+    "educational_section": "9.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-088",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 88,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-088-p01",
+      "dev-fresh-reconstruction-088-p02"
+    ],
+    "educational_section": "9.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-089",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 89,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-089-p01",
+      "dev-fresh-reconstruction-089-p02"
+    ],
+    "educational_section": "9.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-091",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 91,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-091-p01",
+      "dev-fresh-reconstruction-091-p02",
+      "dev-fresh-reconstruction-091-p03",
+      "dev-fresh-reconstruction-091-p04",
+      "dev-fresh-reconstruction-091-p05"
+    ],
+    "educational_section": "9.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-093",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 93,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-093-p01"
+    ],
+    "educational_section": "9.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-095",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 95,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-095-p01",
+      "dev-fresh-reconstruction-095-p02",
+      "dev-fresh-reconstruction-095-p03"
+    ],
+    "educational_section": "9.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-098",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 98,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-098-p01",
+      "dev-fresh-reconstruction-098-p02",
+      "dev-fresh-reconstruction-098-p03",
+      "dev-fresh-reconstruction-098-p04"
+    ],
+    "educational_section": "9.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-100",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 100,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-100-p01",
+      "dev-fresh-reconstruction-100-p02"
+    ],
+    "educational_section": "10.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-102",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 102,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-102-p01",
+      "dev-fresh-reconstruction-102-p02",
+      "dev-fresh-reconstruction-102-p03",
+      "dev-fresh-reconstruction-102-p04"
+    ],
+    "educational_section": "10.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-106",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 106,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-106-p01"
+    ],
+    "educational_section": "10.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-108",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 108,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-108-p01",
+      "dev-fresh-reconstruction-108-p02",
+      "dev-fresh-reconstruction-108-p03",
+      "dev-fresh-reconstruction-108-p04",
+      "dev-fresh-reconstruction-108-p05",
+      "dev-fresh-reconstruction-108-p06",
+      "dev-fresh-reconstruction-108-p07",
+      "dev-fresh-reconstruction-108-p08"
+    ],
+    "educational_section": "11.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-111",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 111,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-111-p01",
+      "dev-fresh-reconstruction-111-p02"
+    ],
+    "educational_section": "11.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-113",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 113,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "documented modification",
+    "code_parts": [
+      "dev-fresh-reconstruction-113-p01"
+    ],
+    "educational_section": "12.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "e101615c",
+    "source_notebook": null,
+    "source_cell": null,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "e101615c-p01"
+    ],
+    "educational_section": "12.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-123",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 123,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-123-p01",
+      "dev-fresh-reconstruction-123-p02",
+      "dev-fresh-reconstruction-123-p03"
+    ],
+    "educational_section": "12.1"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-125",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 125,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-125-p01",
+      "dev-fresh-reconstruction-125-p02",
+      "dev-fresh-reconstruction-125-p03"
+    ],
+    "educational_section": "12.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-126",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 126,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-126-p01",
+      "dev-fresh-reconstruction-126-p02",
+      "dev-fresh-reconstruction-126-p03",
+      "dev-fresh-reconstruction-126-p04",
+      "dev-fresh-reconstruction-126-p05"
+    ],
+    "educational_section": "12.2"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-128",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 128,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-128-p01",
+      "dev-fresh-reconstruction-128-p02",
+      "dev-fresh-reconstruction-128-p03",
+      "dev-fresh-reconstruction-128-p04"
+    ],
+    "educational_section": "12.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-129",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 129,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-129-p01",
+      "dev-fresh-reconstruction-129-p02",
+      "dev-fresh-reconstruction-129-p03",
+      "dev-fresh-reconstruction-129-p04"
+    ],
+    "educational_section": "12.3"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-132",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 132,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-132-p01",
+      "dev-fresh-reconstruction-132-p02",
+      "dev-fresh-reconstruction-132-p03",
+      "dev-fresh-reconstruction-132-p04",
+      "dev-fresh-reconstruction-132-p05",
+      "dev-fresh-reconstruction-132-p06",
+      "dev-fresh-reconstruction-132-p07",
+      "dev-fresh-reconstruction-132-p08"
+    ],
+    "educational_section": "12.4"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-133",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 133,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-133-p01",
+      "dev-fresh-reconstruction-133-p02"
+    ],
+    "educational_section": "12.4"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-135",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 135,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-135-p01",
+      "dev-fresh-reconstruction-135-p02"
+    ],
+    "educational_section": "12.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-136",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 136,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-136-p01",
+      "dev-fresh-reconstruction-136-p02",
+      "dev-fresh-reconstruction-136-p03",
+      "dev-fresh-reconstruction-136-p04",
+      "dev-fresh-reconstruction-136-p05"
+    ],
+    "educational_section": "12.5"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-138",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 138,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-138-p01",
+      "dev-fresh-reconstruction-138-p02",
+      "dev-fresh-reconstruction-138-p03",
+      "dev-fresh-reconstruction-138-p04"
+    ],
+    "educational_section": "12.6"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-140",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 140,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-140-p01",
+      "dev-fresh-reconstruction-140-p02",
+      "dev-fresh-reconstruction-140-p03",
+      "dev-fresh-reconstruction-140-p04",
+      "dev-fresh-reconstruction-140-p05",
+      "dev-fresh-reconstruction-140-p06",
+      "dev-fresh-reconstruction-140-p07"
+    ],
+    "educational_section": "12.7"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-141",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 141,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-141-p01",
+      "dev-fresh-reconstruction-141-p02"
+    ],
+    "educational_section": "12.7"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-143",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 143,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-143-p01",
+      "dev-fresh-reconstruction-143-p02",
+      "dev-fresh-reconstruction-143-p03",
+      "dev-fresh-reconstruction-143-p04",
+      "dev-fresh-reconstruction-143-p05",
+      "dev-fresh-reconstruction-143-p06",
+      "dev-fresh-reconstruction-143-p07",
+      "dev-fresh-reconstruction-143-p08"
+    ],
+    "educational_section": "12.8"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-144",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 144,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-144-p01",
+      "dev-fresh-reconstruction-144-p02"
+    ],
+    "educational_section": "12.8"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-147",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 147,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-147-p01"
+    ],
+    "educational_section": "12.8"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-149",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 149,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-149-p01",
+      "dev-fresh-reconstruction-149-p02",
+      "dev-fresh-reconstruction-149-p03",
+      "dev-fresh-reconstruction-149-p04",
+      "dev-fresh-reconstruction-149-p05",
+      "dev-fresh-reconstruction-149-p06"
+    ],
+    "educational_section": "12.9"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-150",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 150,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-150-p01",
+      "dev-fresh-reconstruction-150-p02",
+      "dev-fresh-reconstruction-150-p03",
+      "dev-fresh-reconstruction-150-p04"
+    ],
+    "educational_section": "12.9"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-153",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 153,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-153-p01"
+    ],
+    "educational_section": "12.9"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-155",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 155,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-155-p01",
+      "dev-fresh-reconstruction-155-p02",
+      "dev-fresh-reconstruction-155-p03",
+      "dev-fresh-reconstruction-155-p04"
+    ],
+    "educational_section": "12.10"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-156",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 156,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-156-p01",
+      "dev-fresh-reconstruction-156-p02",
+      "dev-fresh-reconstruction-156-p03",
+      "dev-fresh-reconstruction-156-p04"
+    ],
+    "educational_section": "12.10"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-157",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 157,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-157-p01",
+      "dev-fresh-reconstruction-157-p02"
+    ],
+    "educational_section": "12.10"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-159",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 159,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-159-p01",
+      "dev-fresh-reconstruction-159-p02",
+      "dev-fresh-reconstruction-159-p03",
+      "dev-fresh-reconstruction-159-p04"
+    ],
+    "educational_section": "12.11"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-160",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 160,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-160-p01",
+      "dev-fresh-reconstruction-160-p02"
+    ],
+    "educational_section": "12.11"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-fresh-reconstruction-163",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 163,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-fresh-reconstruction-163-p01"
+    ],
+    "educational_section": "12.11"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-stage9-original-127",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 127,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-stage9-original-127-p01",
+      "dev-stage9-original-127-p02",
+      "dev-stage9-original-127-p03",
+      "dev-stage9-original-127-p04",
+      "dev-stage9-original-127-p05"
+    ],
+    "educational_section": "12.12"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-stage9-original-129",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 129,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-stage9-original-129-p01",
+      "dev-stage9-original-129-p02"
+    ],
+    "educational_section": "12.13"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "dev-stage9-original-130",
+    "source_notebook": "stage9_original.ipynb",
+    "source_cell": 130,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "unchanged",
+    "code_parts": [
+      "dev-stage9-original-130-p01",
+      "dev-stage9-original-130-p02",
+      "dev-stage9-original-130-p03",
+      "dev-stage9-original-130-p04",
+      "dev-stage9-original-130-p05",
+      "dev-stage9-original-130-p06",
+      "dev-stage9-original-130-p07",
+      "dev-stage9-original-130-p08",
+      "dev-stage9-original-130-p09",
+      "dev-stage9-original-130-p10"
+    ],
+    "educational_section": "12.13"
+  },
+  {
+    "notebook": "02_Experimental_Development.ipynb",
+    "parent_cell_id": "84f2b3da",
+    "source_notebook": null,
+    "source_cell": null,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "84f2b3da-p01"
+    ],
+    "educational_section": "13.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-005",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 5,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-005-p01"
+    ],
+    "educational_section": "2.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-006",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 6,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-006-p01",
+      "final-source-006-p02"
+    ],
+    "educational_section": "2.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-008",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 8,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-008-p01"
+    ],
+    "educational_section": "2.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-010",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 10,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-010-p01"
+    ],
+    "educational_section": "2.3"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-013",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 13,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-013-p01"
+    ],
+    "educational_section": "3.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-015",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 15,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-015-p01"
+    ],
+    "educational_section": "3.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-018",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 18,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-018-p01"
+    ],
+    "educational_section": "4.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-021",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 21,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-021-p01"
+    ],
+    "educational_section": "5.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-023",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 23,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-023-p01",
+      "final-source-023-p02",
+      "final-source-023-p03"
+    ],
+    "educational_section": "5.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-025",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 25,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-025-p01",
+      "final-source-025-p02",
+      "final-source-025-p03"
+    ],
+    "educational_section": "7.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-027",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 27,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-027-p01"
+    ],
+    "educational_section": "7.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-029",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 29,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-029-p01"
+    ],
+    "educational_section": "8.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-032",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 32,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-032-p01"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-034",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 34,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-034-p01"
+    ],
+    "educational_section": "8.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-036",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 36,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-036-p01"
+    ],
+    "educational_section": "10.1"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-038",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 38,
+    "canonical_source_ast_unchanged": true,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-038-p01"
+    ],
+    "educational_section": "10.2"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-040",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 40,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-040-p01"
+    ],
+    "educational_section": "10.3"
+  },
+  {
+    "notebook": "01_Final_Reproducible_Evaluation.ipynb",
+    "parent_cell_id": "final-source-042",
+    "source_notebook": "current_final.ipynb",
+    "source_cell": 42,
+    "canonical_source_ast_unchanged": false,
+    "transformation": "new infrastructure or evidence handling",
+    "code_parts": [
+      "final-source-042-p01"
+    ],
+    "educational_section": "11.1"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "current_development.ipynb",
+    "sha256": "78d7a80d096770217ba11664e2812173e487cb15cd4720e51a90a8945b32620e",
+    "cells": 141,
+    "code_cells": 67,
+    "saved_error_outputs": []
+  },
+  {
+    "file": "current_final.ipynb",
+    "sha256": "99cc2009ce9d4f35aa082c23c67220e8667f4c1afcbd80502ae124b9ddeab3b7",
+    "cells": 44,
+    "code_cells": 18,
+    "saved_error_outputs": []
+  },
+  {
+    "file": "fresh_reconstruction.ipynb",
+    "sha256": "b0093ad845e1fc162a69b7455874e90b73679a4376cc6168d8b94a3eee33759a",
+    "cells": 170,
+    "code_cells": 86,
+    "saved_error_outputs": []
+  },
+  {
+    "file": "stage9_original.ipynb",
+    "sha256": "900183d9671afb4dae32f3d6399ecbabebe6a5e3a09f27a67040477e765b3023",
+    "cells": 131,
+    "code_cells": 66,
+    "saved_error_outputs": []
+  },
+  {
+    "file": "recovered_full_data_archive.ipynb",
+    "sha256": "2f8141c04f0635a9b7504240058f6b27981359d607e530032d9cd5ae18adeeca",
+    "cells": 125,
+    "code_cells": 67,
+    "saved_error_outputs": []
+  },
+  {
+    "file": "historical_scalability.ipynb",
+    "sha256": "ade48a40380368f6ee1c46d03a7dde8ed8c482257ae45cf3e457e3ff8708fd89",
+    "cells": 131,
+    "code_cells": 70,
+    "saved_error_outputs": []
+  }
+]

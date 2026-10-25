@@ -1,0 +1,169 @@
+[
+  {
+    "fresh_source_cell": 50,
+    "archive_source_cells": [
+      47
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "707523bb24b820e3a2065a869d72652ebb743c04496109f98cf2b234a51c9218",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 53,
+    "archive_source_cells": [
+      50
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "cb46a1d17610db84fc00854589b3d9e3b7cc22f04782aace234a0fe9f0b89846",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 56,
+    "archive_source_cells": [
+      53
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "052112915fcff90fa29c3f3db8ecb9f9f357c78dd7e2c774658136efdde0f9b9",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 57,
+    "archive_source_cells": [
+      54
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "fb9bd5b6f02b9c580ce2a247fe4bd72b1b1bb0ec4e423b3b69811c7e9d2e74a7",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 65,
+    "archive_source_cells": [
+      60
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "e84e8aaeaa8499fca574d470e02ad1dd0af963ba266219468b1acce3aada9c7c",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 66,
+    "archive_source_cells": [
+      61
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "28a217318331c5170e4ea92c1bdb299e704d467c6f0342c7f28775967ff67393",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 67,
+    "archive_source_cells": [
+      62
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "d9a8e7846f1756574197cd06f0c3c732d662b8373174be4a629d73133e55f459",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 73,
+    "archive_source_cells": [
+      68
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "8c4db1bbfb84130203963ee2a20d21d1fd095c07a0b19122c410d8dfa6f9612e",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 74,
+    "archive_source_cells": [
+      69
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "999cc19c85952c6e38ff3eac795617cb556da3321a7f40a90606d9dcc4e05be6",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 78,
+    "archive_source_cells": [
+      73
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "deab6cfa1c5a79916b80909a0100e6df4bc04a062ff4dc90f721aa4f7865207a",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 80,
+    "archive_source_cells": [
+      75
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "524334fac33df651115371b7a09fc941c9f7b7a2548af9380708ee477f982ed9",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 86,
+    "archive_source_cells": [
+      80
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "553231c68d70ed002dd68da5e0b368f585701ddc4431f377fc3a853a21463d1a",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 89,
+    "archive_source_cells": [],
+    "exact_ast_match": false,
+    "ast_sha256": "1ba15dad1bc5c820e47dec9e470af52475b96df1a3b25a4d1e1f2803fa97ef39",
+    "note": "fresh feasibility-seed / portable search setup"
+  },
+  {
+    "fresh_source_cell": 91,
+    "archive_source_cells": [
+      85
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "7e1fa3ab9226b884e95d9faf391435024fd888bb31f71cb1d4b01ec5af7c86dc",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 93,
+    "archive_source_cells": [],
+    "exact_ast_match": false,
+    "ast_sha256": "e8777ef45c46cc7f6919670b6ad4cdb8ab55c0970afb01bb89fb70d231082c6a",
+    "note": "fresh feasibility-seed / portable search setup"
+  },
+  {
+    "fresh_source_cell": 95,
+    "archive_source_cells": [
+      89
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "e1d3e3bf4e7c626e22c85b4f00d9f293ddc2b05ad49cb77d5f2542d6f2015e09",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 100,
+    "archive_source_cells": [
+      93
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "590d84b0ccf9add9e7a6c494f97144ee7c181d4b3d459020085356017e6fbc7e",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 102,
+    "archive_source_cells": [
+      95
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "dd78994297efb94ab9d3e9a6c339a227c467c87ca4f26a03e236b3bfd1f7d60a",
+    "note": "literal recovered procedure"
+  },
+  {
+    "fresh_source_cell": 108,
+    "archive_source_cells": [
+      100
+    ],
+    "exact_ast_match": true,
+    "ast_sha256": "07a29fc8948ce7aa9ce1970619a3a4cf3a0f8daf03eaa3cd4edb4e23d668f4ac",
+    "note": "literal recovered procedure"
+  }
+]
