@@ -1,0 +1,28 @@
+{
+  "tests": 124,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "coverage_percent": 95.74000000000001,
+  "notebooks": {
+    "02_Experimental_Development.ipynb": {
+      "cells": 559,
+      "code_cells": 246,
+      "median_code_lines": 28,
+      "longest_code_lines": 229,
+      "sha256": "e576403fa2705392ae1d19426c51eee9888c3c83da20fcd389cd387bae4519ff",
+      "production_outputs_cleared": true
+    },
+    "01_Final_Reproducible_Evaluation.ipynb": {
+      "cells": 210,
+      "code_cells": 35,
+      "median_code_lines": 12,
+      "longest_code_lines": 43,
+      "sha256": "460690c1af18660074efe80e6d5835c6358a0cf59f379560e4597b8a3549bd8b",
+      "production_outputs_cleared": true
+    }
+  },
+  "full_connected_run_certified": false,
+  "production_manifest_included": false,
+  "git_operations_performed": false
+}

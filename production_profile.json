@@ -1,0 +1,24 @@
+{
+  "scope": "separate lightweight production-code profile, not historical experiment timing",
+  "rows": 256,
+  "profile_id": 17,
+  "diagnostic_spans": [
+    10,
+    50,
+    200,
+    1000
+  ],
+  "feature_shape": [
+    256,
+    108
+  ],
+  "qr_shape": [
+    110,
+    110
+  ],
+  "elapsed_seconds_with_profiling": 1.2423695039997256,
+  "python_tracemalloc_peak_bytes": 16518584,
+  "includes_full_dataset_loading": false,
+  "native_allocation_peak_claimed": false,
+  "production_budgets_changed": false
+}

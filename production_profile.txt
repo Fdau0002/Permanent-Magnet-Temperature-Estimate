@@ -1,0 +1,43 @@
+         414592 function calls (400934 primitive calls) in 1.241 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1821 to 35 due to restriction <35>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       31    0.002    0.000    2.544    0.082 __init__.py:1(<module>)
+        1    0.001    0.001    1.242    1.242 profile_workflow.py:15(workload)
+    738/2    0.005    0.000    0.863    0.431 <frozen importlib._bootstrap>:1349(_find_and_load)
+    271/2    0.004    0.000    0.863    0.431 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
+    263/2    0.002    0.000    0.862    0.431 <frozen importlib._bootstrap>:911(_load_unlocked)
+    220/2    0.001    0.000    0.862    0.431 <frozen importlib._bootstrap_external>:993(exec_module)
+    649/4    0.001    0.000    0.862    0.215 <frozen importlib._bootstrap>:480(_call_with_frames_removed)
+    221/2    0.001    0.000    0.862    0.431 {built-in method builtins.exec}
+        1    0.000    0.000    0.862    0.862 numerics.py:1(<module>)
+        1    0.000    0.000    0.716    0.716 _basic.py:1(<module>)
+        1    0.000    0.000    0.712    0.712 _decomp.py:1(<module>)
+        1    0.000    0.000    0.710    0.710 _util.py:1(<module>)
+    96/36    0.000    0.000    0.706    0.020 {built-in method builtins.__import__}
+  504/336    0.003    0.000    0.702    0.002 <frozen importlib._bootstrap>:1390(_handle_fromlist)
+        1    0.000    0.000    0.624    0.624 _array_api.py:1(<module>)
+3107/2341    0.003    0.000    0.580    0.000 {built-in method builtins.hasattr}
+        7    0.000    0.000    0.578    0.083 __init__.py:326(__getattr__)
+        1    0.000    0.000    0.424    0.424 f2py2e.py:1(<module>)
+        1    0.002    0.002    0.357    0.357 crackfortran.py:1(<module>)
+        2    0.002    0.001    0.346    0.173 features.py:83(make_temporal_features)
+      192    0.001    0.000    0.318    0.002 generic.py:514(transform)
+      192    0.003    0.000    0.317    0.002 groupby.py:2012(_transform)
+      192    0.005    0.000    0.314    0.002 generic.py:538(_transform_general)
+      341    0.003    0.000    0.284    0.001 __init__.py:280(_compile)
+      116    0.000    0.000    0.280    0.002 __init__.py:226(compile)
+       92    0.001    0.000    0.278    0.003 _compiler.py:745(compile)
+        1    0.001    0.001    0.189    0.189 numerics.py:24(compress_profile_ols)
+      220    0.005    0.000    0.189    0.001 <frozen importlib._bootstrap_external>:1066(get_code)
+       92    0.000    0.000    0.140    0.002 _compiler.py:578(_code)
+       92    0.001    0.000    0.136    0.001 _parser.py:969(parse)
+   491/92    0.003    0.000    0.135    0.001 _parser.py:452(_parse_sub)
+   646/97    0.084    0.000    0.134    0.001 _parser.py:512(_parse)
+  1187/92    0.050    0.000    0.129    0.001 _compiler.py:37(_compile)
+        4    0.001    0.000    0.117    0.029 utils.py:1(<module>)
+  600/598    0.036    0.000    0.106    0.000 series.py:389(__init__)
+
+

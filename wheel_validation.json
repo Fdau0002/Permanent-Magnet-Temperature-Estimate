@@ -1,0 +1,8 @@
+{
+  "wheel": "mma3001_pmsm_project-2.0.0-py3-none-any.whl",
+  "built_and_archive_checked": true,
+  "sha256": "8e973d45482905ea1c89f4b0c1c5f04cf74273992b5482d3c34d5527f5f980c6",
+  "all_14_production_modules_byte_identical": true,
+  "editable_source_install_instructions": "README.md",
+  "local_wheel_import_check": "passed; see wheel_import.json"
+}

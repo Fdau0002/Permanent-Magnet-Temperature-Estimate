@@ -1,0 +1,31 @@
+[1m============================= test session starts ==============================[0m
+platform linux -- Python 3.13.16, pytest-8.3.5, pluggy-1.7.0
+rootdir: /content/MMA3001_Connected_Project/MMA3001_PMSM_Project
+configfile: pyproject.toml
+testpaths: tests
+plugins: html-4.1.1, metadata-3.1.1, cov-6.1.1, platformdirs-4.13.5, anyio-4.15.1, typeguard-4.6.0, langsmith-0.14.11
+collected 124 items
+
+tests/test_checkpoints_plotting.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                           [  8%][0m
+tests/test_data.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                  [ 25%][0m
+tests/test_features.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                  [ 37%][0m
+tests/test_handoff.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                      [ 61%][0m
+tests/test_notebook_structure.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                   [ 65%][0m
+tests/test_numerics_models_metrics.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                  [ 79%][0m
+tests/test_original_parity.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                    [ 84%][0m
+tests/test_recovered_protocol.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                               [ 91%][0m
+tests/test_sampling_validation.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                             [100%][0m
+
+[33m=============================== warnings summary ===============================[0m
+tests/test_numerics_models_metrics.py::test_final_factory_roundtrip_and_train_only_scaling[MLP]
+  /usr/local/lib/python3.13/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (400) reached and the optimization hasn't converged yet.
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+- generated xml file: /content/MMA3001_Connected_Project/MMA3001_PMSM_Project/docs/reports/pytest.xml -
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.13.16-final-0 _______________
+
+Coverage XML written to file docs/reports/coverage.xml
+- Generated html report: file:///content/MMA3001_Connected_Project/MMA3001_PMSM_Project/docs/reports/pytest.html -
+[33m================== [32m124 passed[0m, [33m[1m1 warning[0m[33m in 78.03s (0:01:18)[0m[33m ===================[0m

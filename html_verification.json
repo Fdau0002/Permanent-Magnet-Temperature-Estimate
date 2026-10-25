@@ -1,0 +1,13 @@
+{
+  "scope": "generated-document structural/navigation/source-content checks",
+  "pdoc_html_pages": 15,
+  "notebook_preview_pages": 2,
+  "mathml_equations": {
+    "02_Experimental_Development.html": 151,
+    "01_Final_Reproducible_Evaluation.html": 84
+  },
+  "local_links_checked": 13872,
+  "errors": [],
+  "status": "passed",
+  "browser_pixel_review": "not completed: Chromium executable unavailable and download failed"
+}

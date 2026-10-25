@@ -1,0 +1,173 @@
+{
+  "stage": "development",
+  "status": "partial_check_completed",
+  "source_notebook": "02_Experimental_Development",
+  "started_utc": "2026-10-25T00:02:07.668255+00:00",
+  "cells": [
+    {
+      "id": "dev-fresh-reconstruction-004-p01",
+      "source_cell": 4,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.7417516929999692,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-004-p02",
+      "source_cell": 4,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.0036211110000294866,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-006-p01",
+      "source_cell": 6,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 3.8885845350005184,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-007-p01",
+      "source_cell": 7,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.21168945499994152,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-010-p01",
+      "source_cell": 10,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.03307739899992157,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-012-p01",
+      "source_cell": 12,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 1.4081421060000139,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-015-p01",
+      "source_cell": 15,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.053896405000159575,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-017-p01",
+      "source_cell": 17,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.03525759800049855,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-017-p02",
+      "source_cell": 17,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.06659124599991628,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-018-p01",
+      "source_cell": 18,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.021736530999987735,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-023-p01",
+      "source_cell": 23,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.0008425309997619479,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-025-p01",
+      "source_cell": 25,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.000709920999725,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-026-p01",
+      "source_cell": 26,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.002717739000217989,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-026-p02",
+      "source_cell": 26,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.007532923000326264,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-028-p01",
+      "source_cell": 28,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.05149911899934523,
+      "status": "executed"
+    },
+    {
+      "id": "ctx-dev-fresh-reconstruction-030",
+      "source_cell": null,
+      "source_notebook": null,
+      "seconds": 0.0009853559995463002,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-030-p01",
+      "source_cell": 30,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.12879605499983882,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-033-p01",
+      "source_cell": 33,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.12762962499982677,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-033-p02",
+      "source_cell": 33,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.025961514000300667,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-033-p03",
+      "source_cell": 33,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.005792337999992014,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-033-p04",
+      "source_cell": 33,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.003538938000019698,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-036-p01",
+      "source_cell": 36,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.015738481999505893,
+      "status": "executed"
+    },
+    {
+      "id": "dev-fresh-reconstruction-036-p02",
+      "source_cell": 36,
+      "source_notebook": "fresh_reconstruction.ipynb",
+      "seconds": 0.0016410959997301688,
+      "status": "executed"
+    }
+  ],
+  "backend": "fresh-process IPython InteractiveShell",
+  "scope": "partial",
+  "elapsed_seconds": 7.455281948999982,
+  "finished_utc": "2026-10-25T00:02:15.148721+00:00"
+}

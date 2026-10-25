@@ -1,0 +1,62 @@
+{
+  "checked_utc": "2026-10-25T00:06:20.563587+00:00",
+  "scope": "source/dependency/synthetic-numerical smoke only; no production optimisation or final fit",
+  "python": "3.12.14",
+  "checks": {
+    "all_production_modules_import": true,
+    "direct_dependency_versions": {
+      "numpy": "2.2.6",
+      "pandas": "2.2.3",
+      "scipy": "1.15.3",
+      "scikit-learn": "1.6.1",
+      "scikit-optimize": "0.10.2",
+      "matplotlib": "3.10.3",
+      "seaborn": "0.13.2",
+      "joblib": "1.5.1",
+      "psutil": "7.0.0",
+      "kagglehub": "0.3.12",
+      "nbformat": "5.10.4",
+      "nbclient": "0.10.2",
+      "ipykernel": "6.29.5",
+      "pdoc": "15.0.4",
+      "pytest": "8.3.5",
+      "pytest-cov": "6.1.1",
+      "pytest-html": "4.1.1",
+      "build": "1.2.2.post1",
+      "setuptools": "80.9.0",
+      "wheel": "0.45.1"
+    },
+    "pip_check": "No broken requirements found.",
+    "historical_sources_unchanged": 6,
+    "notebook_syntax_structure_and_statement_order": [
+      {
+        "notebook": "02_Experimental_Development",
+        "cells": 559,
+        "code_cells": 246,
+        "preserved_parent_code_cells": 82
+      },
+      {
+        "notebook": "01_Final_Reproducible_Evaluation",
+        "cells": 210,
+        "code_cells": 35,
+        "preserved_parent_code_cells": 18
+      }
+    ],
+    "synthetic_gp_dependency_smoke": {
+      "calls": 4,
+      "finite_objectives": true,
+      "production_model_selection": false
+    },
+    "independent_synthetic_qr_max_prediction_difference": 9.769962616701378e-15
+  },
+  "numerical_software": {
+    "python": "3.12",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.6.1",
+    "scikit-optimize": "0.10.2",
+    "joblib": "1.5.1"
+  },
+  "status": "passed"
+}
