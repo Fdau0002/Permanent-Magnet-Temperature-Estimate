@@ -1,0 +1,178 @@
+[
+  {
+    "figure": "figure_001.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "4.3",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 30,
+    "axes": [
+      {
+        "title": "EWMA verification \u2014 Profile 2",
+        "xlabel": "Elapsed time (s)",
+        "ylabel": "q-axis current (A)"
+      }
+    ],
+    "caption": "Section 4.3: EWMA verification \u2014 Profile 2"
+  },
+  {
+    "figure": "figure_002.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "6.3",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 58,
+    "axes": [
+      {
+        "title": "OLS Bayesian Optimisation \u2014 Expanded Pilot",
+        "xlabel": "Bayesian optimisation trial",
+        "ylabel": "Mean 3-fold CV MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 6.3: OLS Bayesian Optimisation \u2014 Expanded Pilot"
+  },
+  {
+    "figure": "figure_003.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "8.2",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 83,
+    "axes": [
+      {
+        "title": "",
+        "xlabel": "",
+        "ylabel": ""
+      }
+    ],
+    "caption": "Section 8.2: "
+  },
+  {
+    "figure": "figure_004.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "8.2",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 83,
+    "axes": [
+      {
+        "title": "SVR Training Cost versus Dataset Size",
+        "xlabel": "Training observations per profile",
+        "ylabel": "Total 3-fold training time (s)"
+      }
+    ],
+    "caption": "Section 8.2: SVR Training Cost versus Dataset Size"
+  },
+  {
+    "figure": "figure_005.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "9.3",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 98,
+    "axes": [
+      {
+        "title": "Full-Data OLS Bayesian Optimisation",
+        "xlabel": "Full-data Bayesian optimisation trial",
+        "ylabel": "Average 3-fold CV MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 9.3: Full-Data OLS Bayesian Optimisation"
+  },
+  {
+    "figure": "figure_006.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "11.1",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 111,
+    "axes": [
+      {
+        "title": "Step 6.3D.8 \u2014 Model Training Scalability",
+        "xlabel": "Training observations (one development fold)",
+        "ylabel": "Fitting time (seconds)"
+      }
+    ],
+    "caption": "Section 11.1: Step 6.3D.8 \u2014 Model Training Scalability"
+  },
+  {
+    "figure": "figure_007.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "11.1",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 111,
+    "axes": [
+      {
+        "title": "Step 6.3D.8 \u2014 Observed Memory Usage",
+        "xlabel": "Training observations (one development fold)",
+        "ylabel": "Approximate peak Python-process RSS (MiB)"
+      }
+    ],
+    "caption": "Section 11.1: Step 6.3D.8 \u2014 Observed Memory Usage"
+  },
+  {
+    "figure": "figure_008.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "12.4",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 133,
+    "axes": [
+      {
+        "title": "Stage 9D: SVR Accuracy\u2013Cost Screening",
+        "xlabel": "Model fitting time (seconds)",
+        "ylabel": "Validation MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 12.4: Stage 9D: SVR Accuracy\u2013Cost Screening"
+  },
+  {
+    "figure": "figure_009.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "12.8",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 147,
+    "axes": [
+      {
+        "title": "Three grouped folds: nonlinear kernel accuracy versus linear efficiency",
+        "xlabel": "",
+        "ylabel": "Development validation MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 12.8: Three grouped folds: nonlinear kernel accuracy versus linear efficiency"
+  },
+  {
+    "figure": "figure_010.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "12.9",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 153,
+    "axes": [
+      {
+        "title": "LinearSVR: regularisation and compute cost",
+        "xlabel": "Total three-fold fitting time (s)",
+        "ylabel": "Mean grouped-CV MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 12.9: LinearSVR: regularisation and compute cost"
+  },
+  {
+    "figure": "figure_011.png",
+    "notebook": "02_Experimental_Development",
+    "run_id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "section": "12.11",
+    "source_notebook": "fresh_reconstruction.ipynb",
+    "source_cell": 163,
+    "axes": [
+      {
+        "title": "Sample-size-aware C screening (times annotated)",
+        "xlabel": "Regularisation parameter C (log scale)",
+        "ylabel": "Mean grouped-CV MSE (\u00b0C\u00b2)"
+      }
+    ],
+    "caption": "Section 12.11: Sample-size-aware C screening (times annotated)"
+  }
+]

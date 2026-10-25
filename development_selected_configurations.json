@@ -1,0 +1,744 @@
+{
+  "schema_version": "2.0",
+  "run": {
+    "id": "d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36",
+    "mode": "full",
+    "status": "completed",
+    "scope": "complete_original_protocol",
+    "started_utc": "2026-10-25T00:45:37.590809+00:00",
+    "completed_utc": "2026-10-25T02:32:33.674075+00:00"
+  },
+  "dataset": {
+    "sha256": "78f3d150f0f2ad9c5dc7ff24dd12c00d386ad530f48c1589ad24fcd88867d3ad",
+    "rows": 1330816,
+    "development_rows": 1055198,
+    "heldout_rows": 275618,
+    "development_profile_ids": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      17,
+      18,
+      19,
+      20,
+      21,
+      26,
+      27,
+      30,
+      31,
+      32,
+      36,
+      41,
+      43,
+      45,
+      46,
+      48,
+      49,
+      50,
+      51,
+      52,
+      54,
+      55,
+      57,
+      58,
+      59,
+      60,
+      61,
+      63,
+      64,
+      65,
+      66,
+      68,
+      69,
+      70,
+      72,
+      73,
+      74,
+      75,
+      76,
+      79,
+      80,
+      81
+    ],
+    "heldout_profile_ids": [
+      13,
+      16,
+      23,
+      24,
+      29,
+      42,
+      44,
+      47,
+      53,
+      56,
+      62,
+      67,
+      71,
+      78
+    ]
+  },
+  "validation": {
+    "method": "profile-level qcut(pm_max,3) + shuffled StratifiedKFold(3,seed=42)",
+    "fold_by_profile": {
+      "2": 1,
+      "3": 1,
+      "4": 3,
+      "5": 2,
+      "6": 3,
+      "7": 1,
+      "8": 2,
+      "9": 3,
+      "10": 1,
+      "11": 3,
+      "12": 3,
+      "14": 3,
+      "15": 1,
+      "17": 1,
+      "18": 2,
+      "19": 3,
+      "20": 2,
+      "21": 2,
+      "26": 2,
+      "27": 1,
+      "30": 3,
+      "31": 1,
+      "32": 1,
+      "36": 1,
+      "41": 3,
+      "43": 2,
+      "45": 1,
+      "46": 3,
+      "48": 1,
+      "49": 3,
+      "50": 2,
+      "51": 3,
+      "52": 2,
+      "54": 3,
+      "55": 2,
+      "57": 2,
+      "58": 2,
+      "59": 3,
+      "60": 3,
+      "61": 2,
+      "63": 2,
+      "64": 3,
+      "65": 1,
+      "66": 2,
+      "68": 3,
+      "69": 1,
+      "70": 1,
+      "72": 1,
+      "73": 3,
+      "74": 2,
+      "75": 1,
+      "76": 2,
+      "79": 1,
+      "80": 1,
+      "81": 2
+    },
+    "selection_uses_heldout": false,
+    "previous_heldout_inspection_disclosed": true
+  },
+  "models": {
+    "OLS": {
+      "spans": [
+        67,
+        97,
+        693,
+        3339
+      ],
+      "hyperparameters": {},
+      "selection": {
+        "trial": 20,
+        "mean_cv_mse_c2": 30.84031074695834,
+        "fold_mse_c2": [
+          32.26769143239501,
+          27.514333751181063,
+          32.73890705729896
+        ],
+        "source": "current-run 20-evaluation full-development QR GP search"
+      }
+    },
+    "k-NN": {
+      "spans": [
+        89,
+        96,
+        1252,
+        7227
+      ],
+      "hyperparameters": {
+        "n_neighbors": 54,
+        "weights": "distance"
+      },
+      "selection": {
+        "trial": 11,
+        "mean_cv_mse_c2": 70.98225239158387,
+        "fold_mse_c2": [
+          75.69549811417315,
+          55.07828284700782,
+          82.17297621357064
+        ],
+        "source": "current-run 12-evaluation larger GP search"
+      },
+      "training_samples_per_profile": 640,
+      "validation_samples_per_profile": 640
+    },
+    "Random Forest": {
+      "spans": [
+        99,
+        152,
+        1640,
+        7415
+      ],
+      "hyperparameters": {
+        "n_estimators": 87,
+        "max_depth": 30,
+        "min_samples_split": 6,
+        "min_samples_leaf": 1,
+        "bootstrap": "yes"
+      },
+      "selection": {
+        "trial": 11,
+        "mean_cv_mse_c2": 48.640330812449314,
+        "fold_mse_c2": [
+          43.25586489410211,
+          45.30646814704255,
+          57.358659396203265
+        ],
+        "source": "current-run 12-evaluation larger GP search"
+      },
+      "training_samples_per_profile": 640,
+      "validation_samples_per_profile": 640
+    },
+    "Extra Trees": {
+      "spans": [
+        46,
+        182,
+        620,
+        4544
+      ],
+      "hyperparameters": {
+        "n_estimators": 87,
+        "max_depth": 26,
+        "min_samples_split": 4,
+        "min_samples_leaf": 1,
+        "bootstrap": "yes"
+      },
+      "selection": {
+        "trial": 10,
+        "mean_cv_mse_c2": 49.54612557690334,
+        "fold_mse_c2": [
+          44.48664873494971,
+          41.040603085573395,
+          63.111124910186945
+        ],
+        "source": "current-run 12-evaluation larger GP search"
+      },
+      "training_samples_per_profile": 640,
+      "validation_samples_per_profile": 640
+    },
+    "MLP": {
+      "spans": [
+        52,
+        407,
+        647,
+        6467
+      ],
+      "hyperparameters": {
+        "n_layers": 1,
+        "n_units": 4,
+        "alpha": 0.007211746678427099,
+        "learning_rate_init": 0.0035926397299781768
+      },
+      "selection": {
+        "trial": 9,
+        "mean_cv_mse_c2": 33.17186972356275,
+        "fold_mse_c2": [
+          30.20344464458737,
+          26.235155129381624,
+          43.077009396719255
+        ],
+        "source": "current-run 12-evaluation larger GP search"
+      },
+      "training_samples_per_profile": 640,
+      "validation_samples_per_profile": 640
+    },
+    "LinearSVR": {
+      "spans": [
+        91,
+        358,
+        1712,
+        7591
+      ],
+      "hyperparameters": {
+        "C": 0.0010983198718170478,
+        "epsilon": 0.08676795206949453,
+        "loss": "epsilon_insensitive",
+        "dual": true,
+        "tol": 0.0001,
+        "max_iter": 10000
+      },
+      "selection": {
+        "mean_cv_mse_c2": 42.66482823207098,
+        "source": "current-run Stage 9J/9K converged minimum"
+      },
+      "regularisation_adjustment": {
+        "reference_C": 0.02469342895102852,
+        "mean_cv_training_rows": 46933.333333333336,
+        "full_training_rows": 1055198,
+        "rule": "C_full = C_reference * N_reference / N_full",
+        "full_data_optimum_claimed": false
+      }
+    }
+  },
+  "svr_reference": {
+    "spans": [
+      91,
+      358,
+      1712,
+      7591
+    ],
+    "hyperparameters": {
+      "C": 0.1561749574579009,
+      "epsilon": 0.08676795206949453
+    },
+    "selection": {
+      "trial": 8,
+      "mean_cv_mse_c2": 35.636727475752174,
+      "fold_mse_c2": [
+        40.1019599538327,
+        29.450482486469955,
+        37.357739986953874
+      ],
+      "source": "current-run 12-evaluation larger GP search"
+    },
+    "training_samples_per_profile": 320,
+    "validation_samples_per_profile": 640
+  },
+  "search_protocol": {
+    "seed": 42,
+    "objective": "unweighted mean of three profile-grouped fold MSE values in deg C squared",
+    "pilot_ols": {
+      "algorithm": "gp_minimize",
+      "trials": 8,
+      "initial_points": 4,
+      "acquisition": "EI",
+      "train_per_profile": 80,
+      "dimensions": [
+        {
+          "name": "span_1",
+          "type": "Integer",
+          "low": 5,
+          "high": 30,
+          "prior": "uniform"
+        },
+        {
+          "name": "span_2",
+          "type": "Integer",
+          "low": 31,
+          "high": 150,
+          "prior": "uniform"
+        },
+        {
+          "name": "span_3",
+          "type": "Integer",
+          "low": 151,
+          "high": 700,
+          "prior": "uniform"
+        },
+        {
+          "name": "span_4",
+          "type": "Integer",
+          "low": 701,
+          "high": 3000,
+          "prior": "uniform"
+        }
+      ]
+    },
+    "expanded_ols": {
+      "algorithm": "Optimizer GP ask/tell",
+      "new_trials": 20,
+      "warm_start_trials": 8,
+      "initial_points": 10,
+      "acquisition": "EI",
+      "train_per_profile": 80
+    },
+    "pilot_models": {
+      "algorithm": "Optimizer GP ask/tell",
+      "trials_each": 8,
+      "initial_points": 5,
+      "acquisition": "EI",
+      "acquisition_optimizer": "sampling",
+      "train_per_profile": 80
+    },
+    "full_ols": {
+      "algorithm": "Optimizer GP ask/tell",
+      "trials": 20,
+      "fresh_seed_evaluations": 1,
+      "initial_points": 6,
+      "acquisition": "EI",
+      "acquisition_optimizer": "sampling",
+      "training": "all development rows; augmented profile QR; gelsd"
+    },
+    "scaled_models": {
+      "algorithm": "Optimizer GP ask/tell",
+      "trials_each": 12,
+      "fresh_seed_evaluations": 1,
+      "initial_points": 5,
+      "acquisition": "EI",
+      "acquisition_optimizer": "sampling",
+      "train_per_profile": {
+        "SVR": 320,
+        "k-NN": 640,
+        "Random Forest": 640,
+        "Extra Trees": 640,
+        "MLP": 640
+      },
+      "validation_per_profile": 640
+    },
+    "span_dimensions": [
+      {
+        "name": "s1",
+        "type": "Integer",
+        "low": 5,
+        "high": 100,
+        "prior": "uniform"
+      },
+      {
+        "name": "gap_2",
+        "type": "Integer",
+        "low": 1,
+        "high": 400,
+        "prior": "uniform"
+      },
+      {
+        "name": "gap_3",
+        "type": "Integer",
+        "low": 1,
+        "high": 1500,
+        "prior": "uniform"
+      },
+      {
+        "name": "gap_4",
+        "type": "Integer",
+        "low": 1,
+        "high": 6000,
+        "prior": "uniform"
+      }
+    ],
+    "model_dimensions": {
+      "SVR": [
+        {
+          "name": "C",
+          "type": "Real",
+          "low": 0.001,
+          "high": 10.0,
+          "prior": "log-uniform"
+        },
+        {
+          "name": "epsilon",
+          "type": "Real",
+          "low": 0.01,
+          "high": 0.3,
+          "prior": "log-uniform"
+        }
+      ],
+      "k-NN": [
+        {
+          "name": "n_neighbors",
+          "type": "Integer",
+          "low": 1,
+          "high": 512,
+          "prior": "uniform"
+        },
+        {
+          "name": "weights",
+          "type": "Categorical",
+          "categories": [
+            "uniform",
+            "distance"
+          ]
+        }
+      ],
+      "Random Forest": [
+        {
+          "name": "n_estimators",
+          "type": "Integer",
+          "low": 20,
+          "high": 100,
+          "prior": "uniform"
+        },
+        {
+          "name": "max_depth",
+          "type": "Integer",
+          "low": 5,
+          "high": 30,
+          "prior": "uniform"
+        },
+        {
+          "name": "min_samples_split",
+          "type": "Integer",
+          "low": 2,
+          "high": 20,
+          "prior": "uniform"
+        },
+        {
+          "name": "min_samples_leaf",
+          "type": "Integer",
+          "low": 1,
+          "high": 10,
+          "prior": "uniform"
+        },
+        {
+          "name": "bootstrap",
+          "type": "Categorical",
+          "categories": [
+            "yes",
+            "no"
+          ]
+        }
+      ],
+      "Extra Trees": [
+        {
+          "name": "n_estimators",
+          "type": "Integer",
+          "low": 20,
+          "high": 100,
+          "prior": "uniform"
+        },
+        {
+          "name": "max_depth",
+          "type": "Integer",
+          "low": 5,
+          "high": 30,
+          "prior": "uniform"
+        },
+        {
+          "name": "min_samples_split",
+          "type": "Integer",
+          "low": 2,
+          "high": 20,
+          "prior": "uniform"
+        },
+        {
+          "name": "min_samples_leaf",
+          "type": "Integer",
+          "low": 1,
+          "high": 10,
+          "prior": "uniform"
+        },
+        {
+          "name": "bootstrap",
+          "type": "Categorical",
+          "categories": [
+            "yes",
+            "no"
+          ]
+        }
+      ],
+      "MLP": [
+        {
+          "name": "n_layers",
+          "type": "Integer",
+          "low": 1,
+          "high": 3,
+          "prior": "uniform"
+        },
+        {
+          "name": "n_units",
+          "type": "Integer",
+          "low": 4,
+          "high": 32,
+          "prior": "uniform"
+        },
+        {
+          "name": "alpha",
+          "type": "Real",
+          "low": 1e-07,
+          "high": 0.01,
+          "prior": "log-uniform"
+        },
+        {
+          "name": "learning_rate_init",
+          "type": "Real",
+          "low": 0.0001,
+          "high": 0.01,
+          "prior": "log-uniform"
+        }
+      ]
+    },
+    "stage5": {
+      "training_per_profile": [
+        80,
+        160,
+        320,
+        640
+      ],
+      "validation_per_profile": 640,
+      "repeats": 3
+    },
+    "stage9": {
+      "samples_per_profile": 640,
+      "expanded_train_per_profile": 1280,
+      "expanded_validation_per_profile": 640,
+      "C_factors_9I": [
+        0.01,
+        0.0316227766,
+        0.1,
+        0.316227766,
+        1.0
+      ],
+      "final_C": "C_reference * mean_actual_fold_training_rows / 1055198"
+    }
+  },
+  "preprocessing": {
+    "inputs": 12,
+    "features": 108,
+    "sample_frequency_hz": 2.0,
+    "adjust": true,
+    "ewms_bias": true,
+    "profile_reset": true,
+    "history_before_sampling": true,
+    "order": "variable-major",
+    "input_scaler": "StandardScaler fitted to training partition only",
+    "target_scaler": "StandardScaler except QR OLS; inverse transform before scoring"
+  },
+  "training": {
+    "development_rows": 1055198,
+    "random_seed": 42,
+    "MLP": {
+      "max_iter": 400,
+      "early_stopping": true,
+      "validation_fraction": 0.1,
+      "n_iter_no_change": 15
+    },
+    "QR_OLS": {
+      "chunk_size": 4096,
+      "lapack_driver": "gelsd",
+      "rank_is_diagnostic": true
+    }
+  },
+  "software": {
+    "python": "3.13",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.6.1",
+    "scikit-optimize": "0.10.2",
+    "joblib": "1.5.1"
+  },
+  "methodology_sha256": "05337ffdb4f9a4b9672cc62a3dc36b8e4e61627feb333145a7b974b0a47b4878",
+  "evidence": {
+    "ols_pilot": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/00_ols_pilot.csv",
+      "sha256": "d46cb86cd0a9ec42b705ecb38f2ea71a67d2bdb5f58b22b33cb1bd2f887b26d8",
+      "rows": 8
+    },
+    "ols_expanded": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/01_ols_expanded.csv",
+      "sha256": "cb92667f47e66cc2e92bc9902e3f5a5642e40ddc2aba6e58b0844ba4767b3489",
+      "rows": 20
+    },
+    "ols_full": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/02_ols_full.csv",
+      "sha256": "76c4bf4e6038fe9abef9342016cc8b5655ccb0a2019477fb04d9514010aacf8c",
+      "rows": 20
+    },
+    "svr_nested": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/03_svr_nested.csv",
+      "sha256": "6c16aa7a5b92a33b977222f00f0264857350944a21aa16014104233f076b93b9",
+      "rows": 36
+    },
+    "stage9h": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/04_stage9h.csv",
+      "sha256": "0c9432c25048a20d4c88df7219545ce57c12b25cc70680f1431911636baa33c7",
+      "rows": 6
+    },
+    "stage9i": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/05_stage9i.csv",
+      "sha256": "ef783360642f972c3807763ee6368415f43d0a1f245043daa1fa2ac4acf7a074",
+      "rows": 15
+    },
+    "stage9j": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/06_stage9j.csv",
+      "sha256": "29406fd410febb1586a535174adbd4cf11a9e3e1b63916b138acb47023a61e3a",
+      "rows": 6
+    },
+    "stage9k": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/07_stage9k.csv",
+      "sha256": "c102c7586bc12676a022fc88902816e94a5bd39dfb9f876daaf31eb012c6310f",
+      "rows": 6
+    },
+    "stage9k_summary": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/08_stage9k_summary.csv",
+      "sha256": "c057e9a82477afd85025a7585968767f9efa05b72401062d0c15b5b898e3b931",
+      "rows": 4
+    },
+    "pilot_SVR": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/09_pilot_SVR.csv",
+      "sha256": "5f448c2553ef093648e7e171912bee9a4b782323aaa8b99bf9d6a7363218b50f",
+      "rows": 8
+    },
+    "scaled_SVR": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/10_scaled_SVR.csv",
+      "sha256": "52a9bf19888ad4d22e02aa6111913bc3d99701f40f23817d54f85f1d4e35ca1c",
+      "rows": 12
+    },
+    "pilot_k-NN": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/11_pilot_kNN.csv",
+      "sha256": "9cd9ba194c0ad573b240b30e31d797f3302bd949cadd08e8395380bcf9a452e1",
+      "rows": 8
+    },
+    "scaled_k-NN": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/12_scaled_kNN.csv",
+      "sha256": "7db97af0c3655ae5ea5ed5b720dbc7bd439b93666a8707a9b9356ab9b7d66e7d",
+      "rows": 12
+    },
+    "pilot_Random Forest": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/13_pilot_Random_Forest.csv",
+      "sha256": "4f6574b1bb82b9668dff351c6336418a7ceed616df4aea639dca563e4be2d4a6",
+      "rows": 8
+    },
+    "scaled_Random Forest": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/14_scaled_Random_Forest.csv",
+      "sha256": "4e0419e2f06d07f48ec37a459eb4881301767b543f987c81d6e3e4099ada710d",
+      "rows": 12
+    },
+    "pilot_Extra Trees": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/15_pilot_Extra_Trees.csv",
+      "sha256": "06fd601edbef9d8709b303a4f56b7173fd5f0954da86146de76e495ea7172e7f",
+      "rows": 8
+    },
+    "scaled_Extra Trees": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/16_scaled_Extra_Trees.csv",
+      "sha256": "da930e51032b0a906d6404bd43a314dff2e027b7132090b2af2a297ce22936c7",
+      "rows": 12
+    },
+    "pilot_MLP": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/17_pilot_MLP.csv",
+      "sha256": "43a4213acc4b7825d3a1191feadcbb93f8b22306e8f06abe30e8f95c318b3bb0",
+      "rows": 8
+    },
+    "scaled_MLP": {
+      "path": "runs/d9ae4c0a-aa9f-4400-9e2a-88d11f3bfe36/handoff_evidence/18_scaled_MLP.csv",
+      "sha256": "90d8492246a4759d5b45f8789982c6831f1800627f1e57fd721c9ace2a9875a1",
+      "rows": 12
+    }
+  },
+  "provenance": {
+    "objectives": "provenance/objective_extraction.json",
+    "comparison": "docs/METHODOLOGY_PRESERVATION.md",
+    "historical_values_used_as_fresh_outputs": false
+  },
+  "manifest_sha256": "57a55568b5abae9c9dc89596d14883b56f44b2ecf55bfe1b282c057adb1fdb94"
+}

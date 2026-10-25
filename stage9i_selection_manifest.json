@@ -1,0 +1,21 @@
+{
+  "stage": "9I",
+  "method": "LinearSVR",
+  "selected_C": 0.1561749574579009,
+  "epsilon": 0.08676795206949453,
+  "loss": "epsilon_insensitive",
+  "dual": true,
+  "max_iter": 10000,
+  "tol": 0.0001,
+  "temporal_spans": [
+    91,
+    358,
+    1712,
+    7591
+  ],
+  "features": 108,
+  "observations_per_profile": 640,
+  "cv_folds": 3,
+  "selection_metric": "mean_fold_MSE_C2",
+  "test_profiles_accessed": false
+}
