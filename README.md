@@ -73,7 +73,7 @@ See [methodology preservation](docs/METHODOLOGY_PRESERVATION.md) for the exact s
 
 | Path | Purpose |
 |---|---|
-| `notebooks/` | Numbered, chapterised development and final notebooks |
+| `Final Notebooks/` | Numbered, chapterised development and final notebooks |
 | `src/pmsm_project/` | Actual imported data, feature, objective, model, QR, metric and handoff code |
 | `tests/` | Production-function numerical, interface, provenance and source-preservation tests |
 | `docs/html/index.html` | Generated pdoc documentation; open locally in a browser |
