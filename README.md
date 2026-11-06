@@ -21,7 +21,7 @@
 
 ## 2. What the software does
 
-The dataset is the publicly available *Electric Motor Temperature* dataset (Paderborn University / Kirchgässner and colleagues), **Kaggle dataset version 3, `measures_v2.csv`**. It consists of **1,330,816 observations**, sampled at a documented **2 Hz**, across **69 recording profiles**. The prediction target is `pm` (permanent-magnet temperature, °C). The target, profile identifier, winding/tooth/yoke temperatures and measured torque are **not model predictors** in the chosen configuration.
+The dataset is the publicly available *Electric Motor Temperature* dataset (Paderborn University / Kirchgässner and colleagues), **Kaggle dataset version 3, `measures_v2.csv`** or https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature?utm_source=chatgpt.com. It consists of **1,330,816 observations**, sampled at a documented **2 Hz**, across **69 recording profiles**. The prediction target is `pm` (permanent-magnet temperature, °C). The target, profile identifier, winding/tooth/yoke temperatures and measured torque are **not model predictors** in the chosen configuration.
 
 - **Inputs:** Seven measured operating variables (`ambient`, `coolant`, `u_d`, `u_q`, `i_d`, `i_q`, `motor_speed`) plus five derived quantities (`u_s`, `i_s`, `S_el`, `i_s_omega`, `S_el_omega`) = **12 instantaneous predictor channels**.
 - **History:** For each channel, the code adds four causal exponentially weighted means (EWMA) and four exponentially weighted standard deviations (EWMS), with profile-boundary resets. That gives **12 + 12 × 8 = 108 features**, where four history spans are tuned per model.
